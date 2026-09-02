@@ -1,0 +1,17 @@
+{
+  "provider": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "permissionMode": "ask",
+  "mcpServers": {
+    "commerce": {
+      "command": "node",
+      "args": ["dist/commerce/mcp-server.js"],
+      "env": {
+        "TINYCODE_COMMERCE_PRODUCTS": "./data/products.json",
+        "TINYCODE_COMMERCE_ORDERS": "./data/orders.json",
+        "TINYCODE_COMMERCE_LOGISTICS": "./data/logistics.json",
+        "TINYCODE_COMMERCE_RAG_DB": "./data/commerce.sqlite"
+      }
+    }
+  }
+}
