@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import { SelectList } from "@earendil-works/pi-tui";
 import { stripTerminalSequences } from "@earendil-works/pi-tui";
 import { TranscriptView } from "../src/tui/transcript.js";
+import { showPermissionDialog } from "../src/tui/permission-dialog.js";
 import { StatusBar } from "../src/tui/status-bar.js";
 import { formatToolStart, formatToolResultLines } from "../src/tui/tool-view.js";
 
@@ -103,6 +104,27 @@ describe("tool start formatting", () => {
   it("summarizes tool arguments compactly", () => {
     expect(plain([formatToolStart("read", { path: "src/index.ts" })])).toBe("● read src/index.ts");
     expect(plain([formatToolStart("grep", { pattern: "needle", include: "*.ts" })])).toContain("needle");
+  });
+});
+
+describe("Permission dialog", () => {
+  it("forwards focused overlay input to the choice list", async () => {
+    let overlay: any;
+    const tui = {
+      showOverlay: (component: any) => {
+        overlay = component;
+        return { hide: () => {}, focus: () => {} };
+      },
+    } as any;
+    const result = showPermissionDialog(tui, {
+      toolName: "load_skill",
+      title: "load_skill commerce-customer-service",
+      reason: "unclassified tool",
+    });
+
+    expect(overlay.handleInput).toBeTypeOf("function");
+    overlay.handleInput("\r");
+    await expect(result).resolves.toBe("once");
   });
 });
 

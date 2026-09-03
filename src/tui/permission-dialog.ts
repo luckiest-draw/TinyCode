@@ -45,7 +45,9 @@ export function showPermissionDialog(
     if (reason) box.addChild(reason);
     box.addChild(list);
 
-    const handle = tui.showOverlay(box, {
+    const interactiveBox = box as Box & { handleInput(data: string): void };
+    interactiveBox.handleInput = (data) => list.handleInput(data);
+    const handle = tui.showOverlay(interactiveBox, {
       width: Math.min(72, Math.max(50, request.title.length + 12)),
       anchor: "center",
     });
