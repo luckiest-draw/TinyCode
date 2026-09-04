@@ -1,0 +1,5106 @@
+[
+  {
+    "id": "order_0000001",
+    "status": "delivered",
+    "purchased_at": "2025-07-30T16:10:36",
+    "total": 492.91,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002805",
+        "product_title": "Storage Unit 2805",
+        "unit_price": 288.6,
+        "line_total": 298.09
+      },
+      {
+        "product_id": "product_001066",
+        "product_title": "Vehicle Accessory 1066",
+        "unit_price": 187.85,
+        "line_total": 194.82
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000002",
+    "status": "delivered",
+    "purchased_at": "2025-09-05T18:13:18",
+    "total": 44.49,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003796",
+        "product_title": "Seasonal Wear 3796",
+        "unit_price": 36.25,
+        "line_total": 44.49
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000003",
+    "status": "processing",
+    "purchased_at": "2026-05-24T18:05:42",
+    "total": 206.78,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007942",
+        "product_title": "Writing Kit 7942",
+        "unit_price": 37.01,
+        "line_total": 45.18
+      },
+      {
+        "product_id": "product_002500",
+        "product_title": "Feeding Item 2500",
+        "unit_price": 64.37,
+        "line_total": 72.52
+      },
+      {
+        "product_id": "product_006224",
+        "product_title": "Maintenance Kit 6224",
+        "unit_price": 78.38,
+        "line_total": 89.08
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000004",
+    "status": "delivered",
+    "purchased_at": "2024-04-19T22:08:31",
+    "total": 109.25,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007254",
+        "product_title": "Storage Unit 7254",
+        "unit_price": 99.45,
+        "line_total": 109.25
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000005",
+    "status": "delivered",
+    "purchased_at": "2026-07-14T18:34:34",
+    "total": 31.87,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004892",
+        "product_title": "Writing Kit 4892",
+        "unit_price": 27.65,
+        "line_total": 31.87
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000006",
+    "status": "delivered",
+    "purchased_at": "2024-12-14T10:33:59",
+    "total": 81.56,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003462",
+        "product_title": "Infant Care Item 3462",
+        "unit_price": 55.2,
+        "line_total": 62.27
+      },
+      {
+        "product_id": "product_001415",
+        "product_title": "Reference Book 1415",
+        "unit_price": 14.26,
+        "line_total": 19.29
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000007",
+    "status": "delivered",
+    "purchased_at": "2026-08-12T12:41:15",
+    "total": 29.79,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002848",
+        "product_title": "Learning Toy 2848",
+        "unit_price": 21.13,
+        "line_total": 29.79
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000008",
+    "status": "delivered",
+    "purchased_at": "2024-09-20T17:13:21",
+    "total": 84.4,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007679",
+        "product_title": "Planting Set 7679",
+        "unit_price": 73.54,
+        "line_total": 84.4
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000009",
+    "status": "delivered",
+    "purchased_at": "2026-04-12T16:00:07",
+    "total": 96.7,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007725",
+        "product_title": "Maintenance Kit 7725",
+        "unit_price": 88.05,
+        "line_total": 96.7
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000010",
+    "status": "delivered",
+    "purchased_at": "2025-05-07T13:32:56",
+    "total": 189.48,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003161",
+        "product_title": "Writing Kit 3161",
+        "unit_price": 32.76,
+        "line_total": 38.15
+      },
+      {
+        "product_id": "product_005515",
+        "product_title": "Gift Set 5515",
+        "unit_price": 146.27,
+        "line_total": 151.33
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000011",
+    "status": "delivered",
+    "purchased_at": "2025-07-01T08:20:09",
+    "total": 22.15,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007043",
+        "product_title": "Pet Care Item 7043",
+        "unit_price": 16.51,
+        "line_total": 22.15
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000012",
+    "status": "processing",
+    "purchased_at": "2025-11-21T17:43:10",
+    "total": 57.76,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003350",
+        "product_title": "Charging Kit 3350",
+        "unit_price": 52.03,
+        "line_total": 57.76
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000013",
+    "status": "delivered",
+    "purchased_at": "2025-08-03T14:41:11",
+    "total": 705.37,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002046",
+        "product_title": "Training Gear 2046",
+        "unit_price": 135.31,
+        "line_total": 143.98
+      },
+      {
+        "product_id": "product_002421",
+        "product_title": "Maintenance Kit 2421",
+        "unit_price": 70.19,
+        "line_total": 81.45
+      },
+      {
+        "product_id": "product_002046",
+        "product_title": "Training Gear 2046",
+        "unit_price": 119.25,
+        "line_total": 128.54
+      },
+      {
+        "product_id": "product_000215",
+        "product_title": "Audio Item 0215",
+        "unit_price": 343.48,
+        "line_total": 351.4
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000014",
+    "status": "delivered",
+    "purchased_at": "2025-06-03T18:31:00",
+    "total": 40.48,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005071",
+        "product_title": "Seasonal Wear 5071",
+        "unit_price": 32.27,
+        "line_total": 40.48
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000015",
+    "status": "delivered",
+    "purchased_at": "2024-03-07T11:09:43",
+    "total": 259.87,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002326",
+        "product_title": "Outdoor Accessory 2326",
+        "unit_price": 121.06,
+        "line_total": 131.6
+      },
+      {
+        "product_id": "product_002326",
+        "product_title": "Outdoor Accessory 2326",
+        "unit_price": 118.76,
+        "line_total": 128.27
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000016",
+    "status": "delivered",
+    "purchased_at": "2025-03-07T20:26:00",
+    "total": 189.8,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005075",
+        "product_title": "Outdoor Accessory 5075",
+        "unit_price": 84.84,
+        "line_total": 91.77
+      },
+      {
+        "product_id": "product_005075",
+        "product_title": "Outdoor Accessory 5075",
+        "unit_price": 91.22,
+        "line_total": 98.03
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 5
+    }
+  },
+  {
+    "id": "order_0000017",
+    "status": "delivered",
+    "purchased_at": "2026-11-28T12:26:02",
+    "total": 75.12,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004694",
+        "product_title": "Infant Care Item 4694",
+        "unit_price": 68.94,
+        "line_total": 75.12
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000018",
+    "status": "delivered",
+    "purchased_at": "2026-09-20T19:10:16",
+    "total": 108.97,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000806",
+        "product_title": "Everyday Apparel 0806",
+        "unit_price": 103.3,
+        "line_total": 108.97
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0000019",
+    "status": "delivered",
+    "purchased_at": "2024-02-04T15:41:14",
+    "total": 67.02,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001141",
+        "product_title": "Device Accessory 1141",
+        "unit_price": 58.53,
+        "line_total": 67.02
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000020",
+    "status": "delivered",
+    "purchased_at": "2025-11-20T22:47:05",
+    "total": 92.51,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001370",
+        "product_title": "Training Gear 1370",
+        "unit_price": 24.93,
+        "line_total": 40.11
+      },
+      {
+        "product_id": "product_001893",
+        "product_title": "Nursery Accessory 1893",
+        "unit_price": 36.96,
+        "line_total": 52.4
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000021",
+    "status": "delivered",
+    "purchased_at": "2025-11-25T14:03:16",
+    "total": 64.48,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007599",
+        "product_title": "Kitchen Item 7599",
+        "unit_price": 55.76,
+        "line_total": 64.48
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000022",
+    "status": "delivered",
+    "purchased_at": "2026-10-01T16:58:30",
+    "total": 606.86,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002696",
+        "product_title": "Home Textile 2696",
+        "unit_price": 63.62,
+        "line_total": 74.42
+      },
+      {
+        "product_id": "product_003576",
+        "product_title": "Garden Tool 3576",
+        "unit_price": 159.35,
+        "line_total": 172.99
+      },
+      {
+        "product_id": "product_000012",
+        "product_title": "Comfort Item 0012",
+        "unit_price": 112.47,
+        "line_total": 120.99
+      },
+      {
+        "product_id": "product_002263",
+        "product_title": "Audio Item 2263",
+        "unit_price": 230.81,
+        "line_total": 238.46
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000023",
+    "status": "delivered",
+    "purchased_at": "2024-03-03T21:48:01",
+    "total": 580.09,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006467",
+        "product_title": "Fashion Accessory 6467",
+        "unit_price": 68.18,
+        "line_total": 75.97
+      },
+      {
+        "product_id": "product_002757",
+        "product_title": "Outdoor Accessory 2757",
+        "unit_price": 50.01,
+        "line_total": 60.75
+      },
+      {
+        "product_id": "product_007577",
+        "product_title": "Device Accessory 7577",
+        "unit_price": 170.23,
+        "line_total": 178.24
+      },
+      {
+        "product_id": "product_000211",
+        "product_title": "Travel Item 0211",
+        "unit_price": 254.07,
+        "line_total": 265.13
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000024",
+    "status": "delivered",
+    "purchased_at": "2025-06-08T14:22:33",
+    "total": 282.81,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001874",
+        "product_title": "Kitchen Item 1874",
+        "unit_price": 67.16,
+        "line_total": 71.99
+      },
+      {
+        "product_id": "product_007267",
+        "product_title": "Mobile Accessory 7267",
+        "unit_price": 113.36,
+        "line_total": 117.49
+      },
+      {
+        "product_id": "product_004051",
+        "product_title": "Comfort Item 4051",
+        "unit_price": 88.65,
+        "line_total": 93.33
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 7
+    }
+  },
+  {
+    "id": "order_0000025",
+    "status": "delivered",
+    "purchased_at": "2024-06-28T09:59:09",
+    "total": 640.86,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004465",
+        "product_title": "Maintenance Kit 4465",
+        "unit_price": 143.45,
+        "line_total": 152.78
+      },
+      {
+        "product_id": "product_003317",
+        "product_title": "Phone Item 3317",
+        "unit_price": 220.58,
+        "line_total": 228.84
+      },
+      {
+        "product_id": "product_002124",
+        "product_title": "Activity Set 2124",
+        "unit_price": 77.51,
+        "line_total": 85.77
+      },
+      {
+        "product_id": "product_000774",
+        "product_title": "Office Organizer 0774",
+        "unit_price": 62.91,
+        "line_total": 70.73
+      },
+      {
+        "product_id": "product_007732",
+        "product_title": "Outdoor Accessory 7732",
+        "unit_price": 92.19,
+        "line_total": 102.74
+      }
+    ],
+    "payment": {
+      "type": "gift_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000026",
+    "status": "delivered",
+    "purchased_at": "2025-12-09T10:49:45",
+    "total": 196.46,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004712",
+        "product_title": "Audio Item 4712",
+        "unit_price": 101.94,
+        "line_total": 110.68
+      },
+      {
+        "product_id": "product_000454",
+        "product_title": "Daily Essential 0454",
+        "unit_price": 29.5,
+        "line_total": 38.09
+      },
+      {
+        "product_id": "product_003281",
+        "product_title": "Family Game 3281",
+        "unit_price": 39.72,
+        "line_total": 47.69
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000027",
+    "status": "delivered",
+    "purchased_at": "2026-03-05T17:49:40",
+    "total": 340.91,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001696",
+        "product_title": "Audio Item 1696",
+        "unit_price": 154.29,
+        "line_total": 159.34
+      },
+      {
+        "product_id": "product_006440",
+        "product_title": "Gift Set 6440",
+        "unit_price": 176.12,
+        "line_total": 181.57
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000028",
+    "status": "delivered",
+    "purchased_at": "2025-05-10T15:05:55",
+    "total": 275.54,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006479",
+        "product_title": "Feeding Item 6479",
+        "unit_price": 104.86,
+        "line_total": 113.25
+      },
+      {
+        "product_id": "product_007802",
+        "product_title": "Writing Kit 7802",
+        "unit_price": 30.11,
+        "line_total": 38.02
+      },
+      {
+        "product_id": "product_006510",
+        "product_title": "Maintenance Kit 6510",
+        "unit_price": 112.25,
+        "line_total": 124.27
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 4
+    }
+  },
+  {
+    "id": "order_0000029",
+    "status": "delivered",
+    "purchased_at": "2025-01-14T14:58:14",
+    "total": 121.68,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000988",
+        "product_title": "Gift Set 0988",
+        "unit_price": 78.38,
+        "line_total": 86.19
+      },
+      {
+        "product_id": "product_005501",
+        "product_title": "Daily Essential 5501",
+        "unit_price": 27.18,
+        "line_total": 35.49
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000030",
+    "status": "cancelled",
+    "purchased_at": "2026-04-26T14:49:43",
+    "total": 45.21,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000687",
+        "product_title": "Pet Activity Item 0687",
+        "unit_price": 40.08,
+        "line_total": 45.21
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000031",
+    "status": "delivered",
+    "purchased_at": "2026-01-23T18:09:18",
+    "total": 203.7,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002898",
+        "product_title": "Pet Care Item 2898",
+        "unit_price": 54.41,
+        "line_total": 67.2
+      },
+      {
+        "product_id": "product_007361",
+        "product_title": "Home Textile 7361",
+        "unit_price": 47.99,
+        "line_total": 60.94
+      },
+      {
+        "product_id": "product_007361",
+        "product_title": "Home Textile 7361",
+        "unit_price": 63.05,
+        "line_total": 75.56
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000032",
+    "status": "delivered",
+    "purchased_at": "2024-09-17T22:41:55",
+    "total": 141.99,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001742",
+        "product_title": "Kitchen Item 1742",
+        "unit_price": 132.29,
+        "line_total": 141.99
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000033",
+    "status": "delivered",
+    "purchased_at": "2025-03-24T22:29:33",
+    "total": 37.4,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004296",
+        "product_title": "Family Game 4296",
+        "unit_price": 28.3,
+        "line_total": 37.4
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000034",
+    "status": "delivered",
+    "purchased_at": "2024-09-06T19:24:46",
+    "total": 469.76,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004984",
+        "product_title": "Decor Item 4984",
+        "unit_price": 279.13,
+        "line_total": 300.36
+      },
+      {
+        "product_id": "product_004741",
+        "product_title": "Daily Essential 4741",
+        "unit_price": 23.88,
+        "line_total": 36.61
+      },
+      {
+        "product_id": "product_007159",
+        "product_title": "Home Textile 7159",
+        "unit_price": 89.11,
+        "line_total": 102.74
+      },
+      {
+        "product_id": "product_003434",
+        "product_title": "Fashion Accessory 3434",
+        "unit_price": 16.99,
+        "line_total": 30.05
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 6
+    }
+  },
+  {
+    "id": "order_0000035",
+    "status": "delivered",
+    "purchased_at": "2026-03-09T20:03:37",
+    "total": 411.63,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006696",
+        "product_title": "Decor Item 6696",
+        "unit_price": 109.54,
+        "line_total": 133.46
+      },
+      {
+        "product_id": "product_003945",
+        "product_title": "Vehicle Accessory 3945",
+        "unit_price": 172.58,
+        "line_total": 183.76
+      },
+      {
+        "product_id": "product_000068",
+        "product_title": "Device Accessory 0068",
+        "unit_price": 85.03,
+        "line_total": 94.41
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000036",
+    "status": "delivered",
+    "purchased_at": "2026-12-08T09:59:20",
+    "total": 92.33,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001749",
+        "product_title": "Fashion Accessory 1749",
+        "unit_price": 83.44,
+        "line_total": 92.33
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000037",
+    "status": "delivered",
+    "purchased_at": "2024-12-11T17:05:14",
+    "total": 345.43,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006568",
+        "product_title": "Daily Essential 6568",
+        "unit_price": 27.25,
+        "line_total": 35.55
+      },
+      {
+        "product_id": "product_005326",
+        "product_title": "Activity Set 5326",
+        "unit_price": 35.89,
+        "line_total": 44.83
+      },
+      {
+        "product_id": "product_001461",
+        "product_title": "Outdoor Accessory 1461",
+        "unit_price": 172.58,
+        "line_total": 184.09
+      },
+      {
+        "product_id": "product_003809",
+        "product_title": "Seasonal Wear 3809",
+        "unit_price": 45.84,
+        "line_total": 53.95
+      },
+      {
+        "product_id": "product_004779",
+        "product_title": "Reference Book 4779",
+        "unit_price": 19.06,
+        "line_total": 27.01
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 4
+    }
+  },
+  {
+    "id": "order_0000038",
+    "status": "delivered",
+    "purchased_at": "2024-07-28T16:05:16",
+    "total": 269.01,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006303",
+        "product_title": "Everyday Apparel 6303",
+        "unit_price": 50.67,
+        "line_total": 58.87
+      },
+      {
+        "product_id": "product_004150",
+        "product_title": "Connectivity Kit 4150",
+        "unit_price": 201.48,
+        "line_total": 210.14
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000039",
+    "status": "delivered",
+    "purchased_at": "2024-04-08T19:38:58",
+    "total": 35.5,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003076",
+        "product_title": "Office Organizer 3076",
+        "unit_price": 27.7,
+        "line_total": 35.5
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000040",
+    "status": "delivered",
+    "purchased_at": "2024-08-02T09:11:58",
+    "total": 222.78,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004401",
+        "product_title": "Bedding Set 4401",
+        "unit_price": 216.7,
+        "line_total": 222.78
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000041",
+    "status": "delivered",
+    "purchased_at": "2025-05-17T21:37:03",
+    "total": 189.79,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007236",
+        "product_title": "Device Accessory 7236",
+        "unit_price": 184.83,
+        "line_total": 189.79
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 5
+    }
+  },
+  {
+    "id": "order_0000042",
+    "status": "delivered",
+    "purchased_at": "2025-11-30T09:35:50",
+    "total": 183.3,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005383",
+        "product_title": "Accent Furniture 5383",
+        "unit_price": 72.17,
+        "line_total": 85.75
+      },
+      {
+        "product_id": "product_000234",
+        "product_title": "Bedding Set 0234",
+        "unit_price": 86.6,
+        "line_total": 97.55
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000043",
+    "status": "delivered",
+    "purchased_at": "2025-04-18T09:31:25",
+    "total": 247.9,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007265",
+        "product_title": "Fitness Item 7265",
+        "unit_price": 65.33,
+        "line_total": 76.68
+      },
+      {
+        "product_id": "product_004292",
+        "product_title": "Keepsake Item 4292",
+        "unit_price": 162.95,
+        "line_total": 171.22
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000044",
+    "status": "delivered",
+    "purchased_at": "2025-11-04T08:12:50",
+    "total": 149.84,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000645",
+        "product_title": "Infant Care Item 0645",
+        "unit_price": 141.3,
+        "line_total": 149.84
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 4
+    }
+  },
+  {
+    "id": "order_0000045",
+    "status": "delivered",
+    "purchased_at": "2024-03-22T16:04:08",
+    "total": 139.32,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001317",
+        "product_title": "Gift Set 1317",
+        "unit_price": 130.87,
+        "line_total": 139.32
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000046",
+    "status": "delivered",
+    "purchased_at": "2025-01-04T12:11:34",
+    "total": 252.22,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004790",
+        "product_title": "Organization Set 4790",
+        "unit_price": 65.78,
+        "line_total": 78.87
+      },
+      {
+        "product_id": "product_007589",
+        "product_title": "Wellness Item 7589",
+        "unit_price": 49.68,
+        "line_total": 62
+      },
+      {
+        "product_id": "product_003398",
+        "product_title": "Gift Set 3398",
+        "unit_price": 99.45,
+        "line_total": 111.35
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000047",
+    "status": "processing",
+    "purchased_at": "2026-04-01T14:44:42",
+    "total": 64.71,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003384",
+        "product_title": "Planting Set 3384",
+        "unit_price": 51.67,
+        "line_total": 64.71
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000048",
+    "status": "delivered",
+    "purchased_at": "2024-12-21T12:57:55",
+    "total": 88.27,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007679",
+        "product_title": "Planting Set 7679",
+        "unit_price": 77.36,
+        "line_total": 88.27
+      }
+    ],
+    "payment": {
+      "type": "gift_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000049",
+    "status": "delivered",
+    "purchased_at": "2024-12-24T17:25:53",
+    "total": 128.24,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000300",
+        "product_title": "Device Accessory 0300",
+        "unit_price": 118.81,
+        "line_total": 128.24
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000050",
+    "status": "delivered",
+    "purchased_at": "2026-08-26T21:44:36",
+    "total": 112.15,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007420",
+        "product_title": "Infant Care Item 7420",
+        "unit_price": 103.86,
+        "line_total": 112.15
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000051",
+    "status": "delivered",
+    "purchased_at": "2024-12-27T13:44:19",
+    "total": 96.64,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007181",
+        "product_title": "Outdoor Accessory 7181",
+        "unit_price": 85.56,
+        "line_total": 96.64
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000052",
+    "status": "delivered",
+    "purchased_at": "2026-11-15T21:01:46",
+    "total": 402.44,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005835",
+        "product_title": "Maintenance Kit 5835",
+        "unit_price": 140.09,
+        "line_total": 149.85
+      },
+      {
+        "product_id": "product_005835",
+        "product_title": "Maintenance Kit 5835",
+        "unit_price": 108.93,
+        "line_total": 119.18
+      },
+      {
+        "product_id": "product_005835",
+        "product_title": "Maintenance Kit 5835",
+        "unit_price": 123.94,
+        "line_total": 133.41
+      }
+    ],
+    "payment": {
+      "type": "gift_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000053",
+    "status": "shipped",
+    "purchased_at": "2026-12-29T20:20:27",
+    "total": 56.53,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003983",
+        "product_title": "Pet Activity Item 3983",
+        "unit_price": 50.34,
+        "line_total": 56.53
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000054",
+    "status": "delivered",
+    "purchased_at": "2025-05-14T08:36:59",
+    "total": 79.86,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005195",
+        "product_title": "Media Collection 5195",
+        "unit_price": 21.82,
+        "line_total": 30.56
+      },
+      {
+        "product_id": "product_001807",
+        "product_title": "Seasonal Wear 1807",
+        "unit_price": 41.89,
+        "line_total": 49.3
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000055",
+    "status": "delivered",
+    "purchased_at": "2026-04-17T13:32:10",
+    "total": 211.41,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006895",
+        "product_title": "Activity Set 6895",
+        "unit_price": 62.27,
+        "line_total": 67.99
+      },
+      {
+        "product_id": "product_007282",
+        "product_title": "Vehicle Accessory 7282",
+        "unit_price": 136.29,
+        "line_total": 143.42
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000056",
+    "status": "delivered",
+    "purchased_at": "2026-11-03T10:44:22",
+    "total": 165.67,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003195",
+        "product_title": "Timepiece 3195",
+        "unit_price": 157.72,
+        "line_total": 165.67
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0000057",
+    "status": "delivered",
+    "purchased_at": "2026-10-15T08:20:34",
+    "total": 397.03,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000588",
+        "product_title": "Maintenance Kit 0588",
+        "unit_price": 132.11,
+        "line_total": 141.61
+      },
+      {
+        "product_id": "product_000588",
+        "product_title": "Maintenance Kit 0588",
+        "unit_price": 115.88,
+        "line_total": 125.65
+      },
+      {
+        "product_id": "product_000588",
+        "product_title": "Maintenance Kit 0588",
+        "unit_price": 120.06,
+        "line_total": 129.77
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000058",
+    "status": "delivered",
+    "purchased_at": "2024-01-12T12:01:58",
+    "total": 376.09,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007232",
+        "product_title": "Organization Set 7232",
+        "unit_price": 98.15,
+        "line_total": 105.56
+      },
+      {
+        "product_id": "product_004116",
+        "product_title": "Pet Activity Item 4116",
+        "unit_price": 39.91,
+        "line_total": 48.58
+      },
+      {
+        "product_id": "product_000786",
+        "product_title": "Keepsake Item 0786",
+        "unit_price": 128.35,
+        "line_total": 135.63
+      },
+      {
+        "product_id": "product_006625",
+        "product_title": "Bedding Set 6625",
+        "unit_price": 76.92,
+        "line_total": 86.32
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000059",
+    "status": "delivered",
+    "purchased_at": "2026-10-20T13:13:11",
+    "total": 41.27,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005812",
+        "product_title": "Pet Care Item 5812",
+        "unit_price": 32.69,
+        "line_total": 41.27
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000060",
+    "status": "delivered",
+    "purchased_at": "2024-05-15T17:51:21",
+    "total": 29.38,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005456",
+        "product_title": "Learning Guide 5456",
+        "unit_price": 21.76,
+        "line_total": 29.38
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000061",
+    "status": "delivered",
+    "purchased_at": "2025-08-12T08:29:25",
+    "total": 69.37,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001093",
+        "product_title": "Connectivity Kit 1093",
+        "unit_price": 63.99,
+        "line_total": 69.37
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000062",
+    "status": "delivered",
+    "purchased_at": "2024-05-22T12:28:12",
+    "total": 60.5,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001325",
+        "product_title": "Feeding Set 1325",
+        "unit_price": 50.94,
+        "line_total": 60.5
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000063",
+    "status": "delivered",
+    "purchased_at": "2025-11-04T08:33:41",
+    "total": 226.98,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006765",
+        "product_title": "Mobile Accessory 6765",
+        "unit_price": 218.51,
+        "line_total": 226.98
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000064",
+    "status": "delivered",
+    "purchased_at": "2024-07-24T15:52:21",
+    "total": 417.58,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006575",
+        "product_title": "Decor Item 6575",
+        "unit_price": 392.89,
+        "line_total": 417.58
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 9
+    }
+  },
+  {
+    "id": "order_0000065",
+    "status": "shipped",
+    "purchased_at": "2026-12-28T14:37:48",
+    "total": 81.8,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005419",
+        "product_title": "Reference Book 5419",
+        "unit_price": 37.46,
+        "line_total": 45.42
+      },
+      {
+        "product_id": "product_004746",
+        "product_title": "Writing Kit 4746",
+        "unit_price": 27.18,
+        "line_total": 36.38
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000066",
+    "status": "delivered",
+    "purchased_at": "2025-01-13T18:57:01",
+    "total": 225.38,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006677",
+        "product_title": "Audio Item 6677",
+        "unit_price": 217.1,
+        "line_total": 225.38
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000067",
+    "status": "delivered",
+    "purchased_at": "2024-12-30T18:58:42",
+    "total": 244.51,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005356",
+        "product_title": "Storage Unit 5356",
+        "unit_price": 102.76,
+        "line_total": 117.26
+      },
+      {
+        "product_id": "product_007767",
+        "product_title": "Outdoor Accessory 7767",
+        "unit_price": 118.41,
+        "line_total": 127.25
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000068",
+    "status": "delivered",
+    "purchased_at": "2025-10-31T12:17:03",
+    "total": 114.66,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005282",
+        "product_title": "Planting Set 5282",
+        "unit_price": 104.47,
+        "line_total": 114.66
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000069",
+    "status": "delivered",
+    "purchased_at": "2025-03-30T21:40:24",
+    "total": 601.33,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003908",
+        "product_title": "Device Accessory 3908",
+        "unit_price": 104.42,
+        "line_total": 112.36
+      },
+      {
+        "product_id": "product_000015",
+        "product_title": "Storage Unit 0015",
+        "unit_price": 476.83,
+        "line_total": 488.97
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000070",
+    "status": "delivered",
+    "purchased_at": "2026-12-21T15:47:59",
+    "total": 227.46,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002263",
+        "product_title": "Audio Item 2263",
+        "unit_price": 221.85,
+        "line_total": 227.46
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 6
+    }
+  },
+  {
+    "id": "order_0000071",
+    "status": "delivered",
+    "purchased_at": "2025-12-10T13:53:53",
+    "total": 51.43,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006917",
+        "product_title": "Family Game 6917",
+        "unit_price": 43.16,
+        "line_total": 51.43
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000072",
+    "status": "delivered",
+    "purchased_at": "2024-10-27T09:47:45",
+    "total": 76.42,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006625",
+        "product_title": "Bedding Set 6625",
+        "unit_price": 66.87,
+        "line_total": 76.42
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000073",
+    "status": "delivered",
+    "purchased_at": "2025-03-05T15:35:28",
+    "total": 59.84,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005167",
+        "product_title": "Outdoor Accessory 5167",
+        "unit_price": 50.14,
+        "line_total": 59.84
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000074",
+    "status": "delivered",
+    "purchased_at": "2025-10-20T13:55:20",
+    "total": 62.87,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000812",
+        "product_title": "Activity Set 0812",
+        "unit_price": 54.39,
+        "line_total": 62.87
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000075",
+    "status": "delivered",
+    "purchased_at": "2026-12-07T17:59:02",
+    "total": 98.4,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007037",
+        "product_title": "Bedding Set 7037",
+        "unit_price": 83.67,
+        "line_total": 98.4
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000076",
+    "status": "delivered",
+    "purchased_at": "2024-10-01T13:52:30",
+    "total": 47.39,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000367",
+        "product_title": "Kitchen Item 0367",
+        "unit_price": 36.49,
+        "line_total": 47.39
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000077",
+    "status": "delivered",
+    "purchased_at": "2024-12-26T14:32:24",
+    "total": 148.54,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007563",
+        "product_title": "Wellness Item 7563",
+        "unit_price": 28.33,
+        "line_total": 37.22
+      },
+      {
+        "product_id": "product_001318",
+        "product_title": "Bedding Set 1318",
+        "unit_price": 40.07,
+        "line_total": 49.74
+      },
+      {
+        "product_id": "product_005200",
+        "product_title": "Wellness Item 5200",
+        "unit_price": 22.49,
+        "line_total": 31.21
+      },
+      {
+        "product_id": "product_005200",
+        "product_title": "Wellness Item 5200",
+        "unit_price": 22.36,
+        "line_total": 30.37
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000078",
+    "status": "delivered",
+    "purchased_at": "2026-01-24T16:35:49",
+    "total": 99.24,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006188",
+        "product_title": "Timepiece 6188",
+        "unit_price": 68.61,
+        "line_total": 74.03
+      },
+      {
+        "product_id": "product_007321",
+        "product_title": "Wellness Item 7321",
+        "unit_price": 19.72,
+        "line_total": 25.21
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000079",
+    "status": "delivered",
+    "purchased_at": "2025-11-17T19:51:44",
+    "total": 88.81,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007621",
+        "product_title": "Care Set 7621",
+        "unit_price": 18.66,
+        "line_total": 26.28
+      },
+      {
+        "product_id": "product_007060",
+        "product_title": "Audio Item 7060",
+        "unit_price": 53.64,
+        "line_total": 62.53
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000080",
+    "status": "delivered",
+    "purchased_at": "2024-12-20T13:32:23",
+    "total": 97.6,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002211",
+        "product_title": "Writing Kit 2211",
+        "unit_price": 31.12,
+        "line_total": 39.33
+      },
+      {
+        "product_id": "product_003760",
+        "product_title": "Everyday Apparel 3760",
+        "unit_price": 11.91,
+        "line_total": 20.27
+      },
+      {
+        "product_id": "product_002211",
+        "product_title": "Writing Kit 2211",
+        "unit_price": 29.7,
+        "line_total": 38
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000081",
+    "status": "delivered",
+    "purchased_at": "2024-06-03T16:32:36",
+    "total": 335.21,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003095",
+        "product_title": "Audio Item 3095",
+        "unit_price": 173.54,
+        "line_total": 181.57
+      },
+      {
+        "product_id": "product_003095",
+        "product_title": "Audio Item 3095",
+        "unit_price": 145.6,
+        "line_total": 153.64
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000082",
+    "status": "delivered",
+    "purchased_at": "2026-07-05T14:53:17",
+    "total": 159.39,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007320",
+        "product_title": "Fashion Accessory 7320",
+        "unit_price": 40.1,
+        "line_total": 48.25
+      },
+      {
+        "product_id": "product_007320",
+        "product_title": "Fashion Accessory 7320",
+        "unit_price": 44.06,
+        "line_total": 52.27
+      },
+      {
+        "product_id": "product_007320",
+        "product_title": "Fashion Accessory 7320",
+        "unit_price": 50.41,
+        "line_total": 58.87
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000083",
+    "status": "delivered",
+    "purchased_at": "2026-11-04T12:15:54",
+    "total": 123.45,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001970",
+        "product_title": "Bedding Set 1970",
+        "unit_price": 85.59,
+        "line_total": 94.92
+      },
+      {
+        "product_id": "product_004971",
+        "product_title": "Pet Care Item 4971",
+        "unit_price": 19.89,
+        "line_total": 28.53
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000084",
+    "status": "delivered",
+    "purchased_at": "2024-07-11T14:07:16",
+    "total": 79.62,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002786",
+        "product_title": "Training Gear 2786",
+        "unit_price": 70.48,
+        "line_total": 79.62
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000085",
+    "status": "delivered",
+    "purchased_at": "2026-01-14T08:43:43",
+    "total": 25.32,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003430",
+        "product_title": "Writing Kit 3430",
+        "unit_price": 16.71,
+        "line_total": 25.32
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000086",
+    "status": "delivered",
+    "purchased_at": "2024-04-30T18:21:39",
+    "total": 146.27,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005704",
+        "product_title": "Garden Tool 5704",
+        "unit_price": 136.34,
+        "line_total": 146.27
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000106",
+    "status": "processing",
+    "purchased_at": "2026-12-24T18:30:38",
+    "total": 68.1,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005500",
+        "product_title": "Learning Guide 5500",
+        "unit_price": 22.82,
+        "line_total": 32.03
+      },
+      {
+        "product_id": "product_002116",
+        "product_title": "Office Organizer 2116",
+        "unit_price": 26.34,
+        "line_total": 36.07
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000151",
+    "status": "processing",
+    "purchased_at": "2024-12-27T08:58:20",
+    "total": 212.98,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007792",
+        "product_title": "Gift Set 7792",
+        "unit_price": 53.12,
+        "line_total": 57.33
+      },
+      {
+        "product_id": "product_003532",
+        "product_title": "Travel Item 3532",
+        "unit_price": 99.07,
+        "line_total": 105.45
+      },
+      {
+        "product_id": "product_001821",
+        "product_title": "Activity Set 1821",
+        "unit_price": 44.24,
+        "line_total": 50.2
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000152",
+    "status": "processing",
+    "purchased_at": "2024-06-01T22:50:20",
+    "total": 31.1,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004500",
+        "product_title": "Media Collection 4500",
+        "unit_price": 23.22,
+        "line_total": 31.1
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000161",
+    "status": "cancelled",
+    "purchased_at": "2025-05-11T18:37:09",
+    "total": 99.32,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007008",
+        "product_title": "Training Gear 7008",
+        "unit_price": 89.48,
+        "line_total": 99.32
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000178",
+    "status": "cancelled",
+    "purchased_at": "2026-12-30T11:19:45",
+    "total": 52.28,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004527",
+        "product_title": "Kitchen Item 4527",
+        "unit_price": 45.8,
+        "line_total": 52.28
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000201",
+    "status": "cancelled",
+    "purchased_at": "2026-02-01T08:57:22",
+    "total": 34.36,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002567",
+        "product_title": "Learning Guide 2567",
+        "unit_price": 26.62,
+        "line_total": 34.36
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000202",
+    "status": "shipped",
+    "purchased_at": "2024-05-24T19:35:00",
+    "total": 204.19,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001140",
+        "product_title": "Accent Furniture 1140",
+        "unit_price": 190.7,
+        "line_total": 204.19
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 5
+    }
+  },
+  {
+    "id": "order_0000208",
+    "status": "cancelled",
+    "purchased_at": "2026-05-20T08:05:10",
+    "total": 58.09,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002113",
+        "product_title": "Fashion Accessory 2113",
+        "unit_price": 50.38,
+        "line_total": 58.09
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000218",
+    "status": "processing",
+    "purchased_at": "2024-09-16T18:43:14",
+    "total": 351.2,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001650",
+        "product_title": "Audio Item 1650",
+        "unit_price": 213.81,
+        "line_total": 221.98
+      },
+      {
+        "product_id": "product_004450",
+        "product_title": "Infant Care Item 4450",
+        "unit_price": 121.69,
+        "line_total": 129.22
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000219",
+    "status": "shipped",
+    "purchased_at": "2026-12-31T21:29:23",
+    "total": 179.2,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004176",
+        "product_title": "Mobile Accessory 4176",
+        "unit_price": 51.69,
+        "line_total": 61.25
+      },
+      {
+        "product_id": "product_001725",
+        "product_title": "Gift Set 1725",
+        "unit_price": 109.52,
+        "line_total": 117.95
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000221",
+    "status": "cancelled",
+    "purchased_at": "2026-11-17T12:25:15",
+    "total": 167.1,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002507",
+        "product_title": "Comfort Item 2507",
+        "unit_price": 55.39,
+        "line_total": 68.94
+      },
+      {
+        "product_id": "product_005527",
+        "product_title": "Media Collection 5527",
+        "unit_price": 27.24,
+        "line_total": 40.42
+      },
+      {
+        "product_id": "product_002134",
+        "product_title": "Family Game 2134",
+        "unit_price": 44.33,
+        "line_total": 57.74
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000246",
+    "status": "cancelled",
+    "purchased_at": "2024-01-19T08:42:33",
+    "total": 171.24,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006635",
+        "product_title": "Maintenance Kit 6635",
+        "unit_price": 65.7,
+        "line_total": 80.97
+      },
+      {
+        "product_id": "product_001381",
+        "product_title": "Reference Book 1381",
+        "unit_price": 28.03,
+        "line_total": 40.56
+      },
+      {
+        "product_id": "product_004484",
+        "product_title": "Training Gear 4484",
+        "unit_price": 35.84,
+        "line_total": 49.71
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000247",
+    "status": "processing",
+    "purchased_at": "2026-12-19T14:37:46",
+    "total": 81.88,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005158",
+        "product_title": "Learning Toy 5158",
+        "unit_price": 20.42,
+        "line_total": 33.42
+      },
+      {
+        "product_id": "product_004570",
+        "product_title": "Charging Kit 4570",
+        "unit_price": 33.97,
+        "line_total": 48.46
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000257",
+    "status": "processing",
+    "purchased_at": "2025-07-20T18:28:15",
+    "total": 86.95,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004357",
+        "product_title": "Fitness Item 4357",
+        "unit_price": 75.46,
+        "line_total": 86.95
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000264",
+    "status": "processing",
+    "purchased_at": "2025-06-23T16:54:06",
+    "total": 132.67,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007781",
+        "product_title": "Fitness Item 7781",
+        "unit_price": 119.83,
+        "line_total": 132.67
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000284",
+    "status": "shipped",
+    "purchased_at": "2026-10-19T22:04:16",
+    "total": 337.19,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007650",
+        "product_title": "Timepiece 7650",
+        "unit_price": 131.43,
+        "line_total": 136.66
+      },
+      {
+        "product_id": "product_003456",
+        "product_title": "Device Accessory 3456",
+        "unit_price": 194.74,
+        "line_total": 200.53
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 6
+    }
+  },
+  {
+    "id": "order_0000288",
+    "status": "shipped",
+    "purchased_at": "2026-12-24T12:42:52",
+    "total": 76.48,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002023",
+        "product_title": "Home Textile 2023",
+        "unit_price": 66.9,
+        "line_total": 76.48
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000301",
+    "status": "processing",
+    "purchased_at": "2025-05-26T12:02:05",
+    "total": 79.89,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002253",
+        "product_title": "Seasonal Wear 2253",
+        "unit_price": 71.64,
+        "line_total": 79.89
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000314",
+    "status": "processing",
+    "purchased_at": "2024-03-01T20:13:06",
+    "total": 77.15,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002832",
+        "product_title": "Nursery Accessory 2832",
+        "unit_price": 68.79,
+        "line_total": 77.15
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000317",
+    "status": "shipped",
+    "purchased_at": "2025-06-12T21:48:11",
+    "total": 51.56,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007309",
+        "product_title": "Feeding Item 7309",
+        "unit_price": 43.85,
+        "line_total": 51.56
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000334",
+    "status": "processing",
+    "purchased_at": "2024-05-05T22:13:28",
+    "total": 514.37,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000234",
+        "product_title": "Bedding Set 0234",
+        "unit_price": 100.64,
+        "line_total": 107.82
+      },
+      {
+        "product_id": "product_000234",
+        "product_title": "Bedding Set 0234",
+        "unit_price": 99.69,
+        "line_total": 107.16
+      },
+      {
+        "product_id": "product_003404",
+        "product_title": "Connectivity Kit 3404",
+        "unit_price": 263.7,
+        "line_total": 269.42
+      },
+      {
+        "product_id": "product_007581",
+        "product_title": "Writing Kit 7581",
+        "unit_price": 24.42,
+        "line_total": 29.97
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000347",
+    "status": "shipped",
+    "purchased_at": "2025-11-20T13:02:44",
+    "total": 104.28,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007067",
+        "product_title": "Home Textile 7067",
+        "unit_price": 90.52,
+        "line_total": 104.28
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000367",
+    "status": "processing",
+    "purchased_at": "2024-11-15T17:12:18",
+    "total": 212.73,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005055",
+        "product_title": "Travel Item 5055",
+        "unit_price": 202.36,
+        "line_total": 212.73
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000375",
+    "status": "shipped",
+    "purchased_at": "2025-03-02T11:52:45",
+    "total": 599.4,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001305",
+        "product_title": "Training Gear 1305",
+        "unit_price": 436.02,
+        "line_total": 443.93
+      },
+      {
+        "product_id": "product_002741",
+        "product_title": "Connectivity Kit 2741",
+        "unit_price": 106.76,
+        "line_total": 112.6
+      },
+      {
+        "product_id": "product_002956",
+        "product_title": "Nursery Accessory 2956",
+        "unit_price": 36.83,
+        "line_total": 42.87
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 6
+    }
+  },
+  {
+    "id": "order_0000388",
+    "status": "cancelled",
+    "purchased_at": "2024-04-11T13:27:55",
+    "total": 26.45,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005428",
+        "product_title": "Desk Set 5428",
+        "unit_price": 19,
+        "line_total": 26.45
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000390",
+    "status": "processing",
+    "purchased_at": "2024-02-06T09:21:01",
+    "total": 116.64,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000476",
+        "product_title": "Learning Toy 0476",
+        "unit_price": 28.98,
+        "line_total": 37.7
+      },
+      {
+        "product_id": "product_007167",
+        "product_title": "Timepiece 7167",
+        "unit_price": 70.9,
+        "line_total": 78.94
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000392",
+    "status": "processing",
+    "purchased_at": "2024-05-24T13:35:31",
+    "total": 235.08,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001711",
+        "product_title": "Comfort Item 1711",
+        "unit_price": 42.92,
+        "line_total": 52.42
+      },
+      {
+        "product_id": "product_003212",
+        "product_title": "Outdoor Kit 3212",
+        "unit_price": 82.26,
+        "line_total": 93.12
+      },
+      {
+        "product_id": "product_007194",
+        "product_title": "Pet Activity Item 7194",
+        "unit_price": 80.7,
+        "line_total": 89.54
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000411",
+    "status": "cancelled",
+    "purchased_at": "2026-05-29T08:32:32",
+    "total": 31.3,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002175",
+        "product_title": "Daily Essential 2175",
+        "unit_price": 23.38,
+        "line_total": 31.3
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000482",
+    "status": "shipped",
+    "purchased_at": "2026-06-15T14:09:32",
+    "total": 171.62,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001169",
+        "product_title": "Keepsake Item 1169",
+        "unit_price": 163.43,
+        "line_total": 171.62
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000483",
+    "status": "cancelled",
+    "purchased_at": "2024-12-04T15:20:51",
+    "total": 73.65,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006596",
+        "product_title": "Pet Activity Item 6596",
+        "unit_price": 28.88,
+        "line_total": 38.68
+      },
+      {
+        "product_id": "product_006596",
+        "product_title": "Pet Activity Item 6596",
+        "unit_price": 25.34,
+        "line_total": 34.97
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000506",
+    "status": "shipped",
+    "purchased_at": "2026-12-24T08:14:50",
+    "total": 49.84,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005931",
+        "product_title": "Organization Set 5931",
+        "unit_price": 39.63,
+        "line_total": 49.84
+      }
+    ],
+    "payment": {
+      "type": "gift_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000528",
+    "status": "cancelled",
+    "purchased_at": "2025-01-09T09:19:19",
+    "total": 43.74,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000478",
+        "product_title": "Desk Set 0478",
+        "unit_price": 34.3,
+        "line_total": 43.74
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000550",
+    "status": "shipped",
+    "purchased_at": "2026-05-31T19:57:09",
+    "total": 166.03,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002458",
+        "product_title": "Decor Item 2458",
+        "unit_price": 146.16,
+        "line_total": 166.03
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000553",
+    "status": "shipped",
+    "purchased_at": "2025-03-17T09:03:49",
+    "total": 195.41,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006583",
+        "product_title": "Phone Item 6583",
+        "unit_price": 58.27,
+        "line_total": 63.91
+      },
+      {
+        "product_id": "product_004986",
+        "product_title": "Wellness Item 4986",
+        "unit_price": 34,
+        "line_total": 38.95
+      },
+      {
+        "product_id": "product_002120",
+        "product_title": "Nursery Accessory 2120",
+        "unit_price": 36.1,
+        "line_total": 41.91
+      },
+      {
+        "product_id": "product_004484",
+        "product_title": "Training Gear 4484",
+        "unit_price": 43.52,
+        "line_total": 50.64
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000564",
+    "status": "shipped",
+    "purchased_at": "2026-04-15T19:57:42",
+    "total": 111.03,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002025",
+        "product_title": "Pet Care Item 2025",
+        "unit_price": 102.68,
+        "line_total": 111.03
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0000571",
+    "status": "processing",
+    "purchased_at": "2026-02-10T21:07:51",
+    "total": 26.57,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005534",
+        "product_title": "Family Game 5534",
+        "unit_price": 18.62,
+        "line_total": 26.57
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000586",
+    "status": "processing",
+    "purchased_at": "2024-07-10T18:34:38",
+    "total": 266.74,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002625",
+        "product_title": "Storage Unit 2625",
+        "unit_price": 177.53,
+        "line_total": 193.27
+      },
+      {
+        "product_id": "product_005644",
+        "product_title": "Seasonal Wear 5644",
+        "unit_price": 18.2,
+        "line_total": 26.4
+      },
+      {
+        "product_id": "product_001580",
+        "product_title": "Family Game 1580",
+        "unit_price": 39.09,
+        "line_total": 47.07
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 4
+    }
+  },
+  {
+    "id": "order_0000587",
+    "status": "cancelled",
+    "purchased_at": "2024-03-22T16:22:13",
+    "total": 31.51,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003000",
+        "product_title": "Daily Essential 3000",
+        "unit_price": 26.57,
+        "line_total": 31.51
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000594",
+    "status": "shipped",
+    "purchased_at": "2024-09-29T15:04:30",
+    "total": 136.55,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007470",
+        "product_title": "Vehicle Accessory 7470",
+        "unit_price": 88.55,
+        "line_total": 96.23
+      },
+      {
+        "product_id": "product_003896",
+        "product_title": "Learning Guide 3896",
+        "unit_price": 32.71,
+        "line_total": 40.32
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0000608",
+    "status": "cancelled",
+    "purchased_at": "2026-11-28T09:32:13",
+    "total": 55.79,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006039",
+        "product_title": "Household Tool 6039",
+        "unit_price": 45.92,
+        "line_total": 55.79
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000619",
+    "status": "cancelled",
+    "purchased_at": "2025-12-13T18:12:46",
+    "total": 47.11,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004730",
+        "product_title": "Infant Care Item 4730",
+        "unit_price": 32.65,
+        "line_total": 47.11
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000645",
+    "status": "processing",
+    "purchased_at": "2025-09-20T16:07:19",
+    "total": 49.92,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004100",
+        "product_title": "Household Tool 4100",
+        "unit_price": 42.7,
+        "line_total": 49.92
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000663",
+    "status": "cancelled",
+    "purchased_at": "2026-07-31T12:14:12",
+    "total": 143.13,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007977",
+        "product_title": "Seasonal Wear 7977",
+        "unit_price": 135.4,
+        "line_total": 143.13
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000667",
+    "status": "shipped",
+    "purchased_at": "2026-12-09T16:08:56",
+    "total": 31.57,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002333",
+        "product_title": "Office Organizer 2333",
+        "unit_price": 23.39,
+        "line_total": 31.57
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000668",
+    "status": "shipped",
+    "purchased_at": "2024-12-18T16:05:32",
+    "total": 226.09,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000553",
+        "product_title": "Writing Kit 0553",
+        "unit_price": 8.58,
+        "line_total": 14.48
+      },
+      {
+        "product_id": "product_007142",
+        "product_title": "Reference Book 7142",
+        "unit_price": 24.48,
+        "line_total": 29.67
+      },
+      {
+        "product_id": "product_001348",
+        "product_title": "Outdoor Accessory 1348",
+        "unit_price": 129.03,
+        "line_total": 137.35
+      },
+      {
+        "product_id": "product_003979",
+        "product_title": "Pet Activity Item 3979",
+        "unit_price": 19.83,
+        "line_total": 25.71
+      },
+      {
+        "product_id": "product_000496",
+        "product_title": "Office Organizer 0496",
+        "unit_price": 12.79,
+        "line_total": 18.88
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000690",
+    "status": "shipped",
+    "purchased_at": "2025-02-16T17:26:30",
+    "total": 67,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004957",
+        "product_title": "Media Collection 4957",
+        "unit_price": 23.68,
+        "line_total": 31.18
+      },
+      {
+        "product_id": "product_004957",
+        "product_title": "Media Collection 4957",
+        "unit_price": 27.52,
+        "line_total": 35.82
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000697",
+    "status": "cancelled",
+    "purchased_at": "2024-06-21T17:54:11",
+    "total": 35.36,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007734",
+        "product_title": "Office Organizer 7734",
+        "unit_price": 26.87,
+        "line_total": 35.36
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000700",
+    "status": "shipped",
+    "purchased_at": "2024-04-12T10:56:01",
+    "total": 187.93,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003689",
+        "product_title": "Comfort Item 3689",
+        "unit_price": 178.08,
+        "line_total": 187.93
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000702",
+    "status": "shipped",
+    "purchased_at": "2026-12-30T12:18:26",
+    "total": 31.37,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007631",
+        "product_title": "Desk Set 7631",
+        "unit_price": 22.44,
+        "line_total": 31.37
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000707",
+    "status": "shipped",
+    "purchased_at": "2026-03-01T08:07:47",
+    "total": 53.62,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006009",
+        "product_title": "Feeding Set 6009",
+        "unit_price": 44.19,
+        "line_total": 53.62
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000719",
+    "status": "cancelled",
+    "purchased_at": "2024-04-27T11:02:40",
+    "total": 39.72,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005585",
+        "product_title": "Writing Kit 5585",
+        "unit_price": 31.94,
+        "line_total": 39.72
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000726",
+    "status": "shipped",
+    "purchased_at": "2024-11-14T14:23:37",
+    "total": 23.27,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003143",
+        "product_title": "Media Collection 3143",
+        "unit_price": 15.3,
+        "line_total": 23.27
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000744",
+    "status": "shipped",
+    "purchased_at": "2024-08-03T15:30:04",
+    "total": 160.76,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002961",
+        "product_title": "Comfort Item 2961",
+        "unit_price": 155.25,
+        "line_total": 160.76
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000747",
+    "status": "processing",
+    "purchased_at": "2025-12-03T09:14:51",
+    "total": 232.61,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006168",
+        "product_title": "Fitness Item 6168",
+        "unit_price": 73.44,
+        "line_total": 83.12
+      },
+      {
+        "product_id": "product_002394",
+        "product_title": "Bedding Set 2394",
+        "unit_price": 61.09,
+        "line_total": 73.67
+      },
+      {
+        "product_id": "product_002394",
+        "product_title": "Bedding Set 2394",
+        "unit_price": 64.05,
+        "line_total": 75.82
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000749",
+    "status": "shipped",
+    "purchased_at": "2025-06-12T22:57:36",
+    "total": 110.2,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007161",
+        "product_title": "Infant Care Item 7161",
+        "unit_price": 27.16,
+        "line_total": 36.27
+      },
+      {
+        "product_id": "product_006116",
+        "product_title": "Feeding Item 6116",
+        "unit_price": 65.62,
+        "line_total": 73.93
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000753",
+    "status": "shipped",
+    "purchased_at": "2025-12-17T14:13:10",
+    "total": 21.92,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007165",
+        "product_title": "Daily Essential 7165",
+        "unit_price": 16.06,
+        "line_total": 21.92
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000772",
+    "status": "processing",
+    "purchased_at": "2026-10-21T18:19:30",
+    "total": 161.1,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002755",
+        "product_title": "Keepsake Item 2755",
+        "unit_price": 153.37,
+        "line_total": 161.1
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000783",
+    "status": "processing",
+    "purchased_at": "2024-09-12T21:16:45",
+    "total": 251.5,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002504",
+        "product_title": "Audio Item 2504",
+        "unit_price": 115.98,
+        "line_total": 124.32
+      },
+      {
+        "product_id": "product_002727",
+        "product_title": "Fitness Item 2727",
+        "unit_price": 117.8,
+        "line_total": 127.18
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 6
+    }
+  },
+  {
+    "id": "order_0000791",
+    "status": "processing",
+    "purchased_at": "2026-01-27T14:48:53",
+    "total": 938.79,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002142",
+        "product_title": "Seasonal Wear 2142",
+        "unit_price": 65.31,
+        "line_total": 70.25
+      },
+      {
+        "product_id": "product_003398",
+        "product_title": "Gift Set 3398",
+        "unit_price": 97.31,
+        "line_total": 102.7
+      },
+      {
+        "product_id": "product_005155",
+        "product_title": "Everyday Apparel 5155",
+        "unit_price": 107.89,
+        "line_total": 113.03
+      },
+      {
+        "product_id": "product_004460",
+        "product_title": "Seasonal Wear 4460",
+        "unit_price": 56.85,
+        "line_total": 62.43
+      },
+      {
+        "product_id": "product_004534",
+        "product_title": "Accent Furniture 4534",
+        "unit_price": 582.45,
+        "line_total": 590.38
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 7
+    }
+  },
+  {
+    "id": "order_0000809",
+    "status": "processing",
+    "purchased_at": "2026-01-05T14:50:06",
+    "total": 190.74,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001963",
+        "product_title": "Timepiece 1963",
+        "unit_price": 133.04,
+        "line_total": 140.47
+      },
+      {
+        "product_id": "product_000825",
+        "product_title": "Fashion Accessory 0825",
+        "unit_price": 42.58,
+        "line_total": 50.27
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000810",
+    "status": "shipped",
+    "purchased_at": "2026-12-29T14:57:40",
+    "total": 82.4,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003670",
+        "product_title": "Nursery Accessory 3670",
+        "unit_price": 73.56,
+        "line_total": 82.4
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000822",
+    "status": "cancelled",
+    "purchased_at": "2024-12-02T22:21:41",
+    "total": 91.09,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004982",
+        "product_title": "Learning Toy 4982",
+        "unit_price": 28.09,
+        "line_total": 37.06
+      },
+      {
+        "product_id": "product_003075",
+        "product_title": "Family Game 3075",
+        "unit_price": 44.42,
+        "line_total": 54.03
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000834",
+    "status": "cancelled",
+    "purchased_at": "2026-06-13T09:11:07",
+    "total": 48.58,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004443",
+        "product_title": "Keepsake Item 4443",
+        "unit_price": 41.28,
+        "line_total": 48.58
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000868",
+    "status": "processing",
+    "purchased_at": "2026-07-31T11:35:31",
+    "total": 82.58,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002938",
+        "product_title": "Everyday Apparel 2938",
+        "unit_price": 74.15,
+        "line_total": 82.58
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000871",
+    "status": "cancelled",
+    "purchased_at": "2024-09-29T21:29:16",
+    "total": 55.8,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004443",
+        "product_title": "Keepsake Item 4443",
+        "unit_price": 48.22,
+        "line_total": 55.8
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000888",
+    "status": "shipped",
+    "purchased_at": "2026-01-25T09:00:37",
+    "total": 80.76,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004647",
+        "product_title": "Connectivity Kit 4647",
+        "unit_price": 72.44,
+        "line_total": 80.76
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000889",
+    "status": "cancelled",
+    "purchased_at": "2026-11-25T22:42:26",
+    "total": 235.64,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002744",
+        "product_title": "Training Gear 2744",
+        "unit_price": 88.97,
+        "line_total": 98.57
+      },
+      {
+        "product_id": "product_005526",
+        "product_title": "Storage Unit 5526",
+        "unit_price": 113.28,
+        "line_total": 137.07
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000902",
+    "status": "processing",
+    "purchased_at": "2026-06-24T08:26:18",
+    "total": 48.33,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001249",
+        "product_title": "Home Textile 1249",
+        "unit_price": 39.72,
+        "line_total": 48.33
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000907",
+    "status": "shipped",
+    "purchased_at": "2025-11-06T17:35:45",
+    "total": 82.68,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004889",
+        "product_title": "Mobile Accessory 4889",
+        "unit_price": 74.71,
+        "line_total": 82.68
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000926",
+    "status": "shipped",
+    "purchased_at": "2026-10-22T20:28:15",
+    "total": 180.56,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002608",
+        "product_title": "Feeding Item 2608",
+        "unit_price": 72.81,
+        "line_total": 79.03
+      },
+      {
+        "product_id": "product_002179",
+        "product_title": "Bedding Set 2179",
+        "unit_price": 25,
+        "line_total": 31.23
+      },
+      {
+        "product_id": "product_005687",
+        "product_title": "Training Gear 5687",
+        "unit_price": 57.3,
+        "line_total": 70.3
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000928",
+    "status": "cancelled",
+    "purchased_at": "2025-06-28T15:24:34",
+    "total": 69.08,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007734",
+        "product_title": "Office Organizer 7734",
+        "unit_price": 25.53,
+        "line_total": 33.33
+      },
+      {
+        "product_id": "product_007734",
+        "product_title": "Office Organizer 7734",
+        "unit_price": 27.25,
+        "line_total": 35.75
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000934",
+    "status": "processing",
+    "purchased_at": "2024-11-14T13:26:54",
+    "total": 329.92,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000385",
+        "product_title": "Audio Item 0385",
+        "unit_price": 211.96,
+        "line_total": 219.84
+      },
+      {
+        "product_id": "product_000881",
+        "product_title": "Household Tool 0881",
+        "unit_price": 100.23,
+        "line_total": 110.08
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0000938",
+    "status": "processing",
+    "purchased_at": "2024-09-05T18:56:38",
+    "total": 149.62,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007060",
+        "product_title": "Audio Item 7060",
+        "unit_price": 69.79,
+        "line_total": 77.87
+      },
+      {
+        "product_id": "product_005007",
+        "product_title": "Gift Set 5007",
+        "unit_price": 63.59,
+        "line_total": 71.75
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000942",
+    "status": "processing",
+    "purchased_at": "2026-06-01T22:05:17",
+    "total": 524.28,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003198",
+        "product_title": "Phone Item 3198",
+        "unit_price": 139.47,
+        "line_total": 144.56
+      },
+      {
+        "product_id": "product_003198",
+        "product_title": "Phone Item 3198",
+        "unit_price": 175.52,
+        "line_total": 180.48
+      },
+      {
+        "product_id": "product_006793",
+        "product_title": "Device Accessory 6793",
+        "unit_price": 194.17,
+        "line_total": 199.24
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 11
+    }
+  },
+  {
+    "id": "order_0000960",
+    "status": "shipped",
+    "purchased_at": "2026-04-21T19:29:40",
+    "total": 32.92,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001608",
+        "product_title": "Reference Book 1608",
+        "unit_price": 25.26,
+        "line_total": 32.92
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0000989",
+    "status": "cancelled",
+    "purchased_at": "2026-09-18T17:16:27",
+    "total": 179.75,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003132",
+        "product_title": "Device Accessory 3132",
+        "unit_price": 171.52,
+        "line_total": 179.75
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001005",
+    "status": "processing",
+    "purchased_at": "2024-10-06T21:34:08",
+    "total": 55.23,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001128",
+        "product_title": "Comfort Item 1128",
+        "unit_price": 46.13,
+        "line_total": 55.23
+      }
+    ],
+    "payment": {
+      "type": "gift_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001029",
+    "status": "cancelled",
+    "purchased_at": "2026-08-15T15:15:13",
+    "total": 124.67,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005447",
+        "product_title": "Outdoor Accessory 5447",
+        "unit_price": 112.22,
+        "line_total": 124.67
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001041",
+    "status": "processing",
+    "purchased_at": "2024-08-13T11:45:09",
+    "total": 81.93,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004557",
+        "product_title": "Outdoor Accessory 4557",
+        "unit_price": 73.48,
+        "line_total": 81.93
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0001102",
+    "status": "processing",
+    "purchased_at": "2025-11-23T21:40:59",
+    "total": 49.55,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002702",
+        "product_title": "Infant Care Item 2702",
+        "unit_price": 17.31,
+        "line_total": 23.74
+      },
+      {
+        "product_id": "product_001628",
+        "product_title": "Household Tool 1628",
+        "unit_price": 18.35,
+        "line_total": 25.81
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001108",
+    "status": "shipped",
+    "purchased_at": "2025-07-09T14:10:46",
+    "total": 176.57,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003815",
+        "product_title": "Feeding Item 3815",
+        "unit_price": 68.18,
+        "line_total": 76.39
+      },
+      {
+        "product_id": "product_006026",
+        "product_title": "Household Tool 6026",
+        "unit_price": 90.73,
+        "line_total": 100.18
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 4
+    }
+  },
+  {
+    "id": "order_0001109",
+    "status": "cancelled",
+    "purchased_at": "2024-07-15T11:37:16",
+    "total": 364.46,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007258",
+        "product_title": "Planting Set 7258",
+        "unit_price": 124.39,
+        "line_total": 143.06
+      },
+      {
+        "product_id": "product_000310",
+        "product_title": "Comfort Item 0310",
+        "unit_price": 106.5,
+        "line_total": 119.69
+      },
+      {
+        "product_id": "product_001456",
+        "product_title": "Planting Set 1456",
+        "unit_price": 85.45,
+        "line_total": 101.71
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001110",
+    "status": "shipped",
+    "purchased_at": "2026-09-17T12:57:19",
+    "total": 103.88,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000542",
+        "product_title": "Comfort Item 0542",
+        "unit_price": 96.17,
+        "line_total": 103.88
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001114",
+    "status": "cancelled",
+    "purchased_at": "2024-06-04T14:59:42",
+    "total": 84.47,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005667",
+        "product_title": "Organization Set 5667",
+        "unit_price": 76.3,
+        "line_total": 84.47
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001146",
+    "status": "shipped",
+    "purchased_at": "2026-12-25T10:57:49",
+    "total": 137.72,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006263",
+        "product_title": "Connectivity Kit 6263",
+        "unit_price": 129.74,
+        "line_total": 137.72
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001149",
+    "status": "cancelled",
+    "purchased_at": "2024-09-07T09:11:32",
+    "total": 67.43,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007788",
+        "product_title": "Fashion Accessory 7788",
+        "unit_price": 59.47,
+        "line_total": 67.43
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001159",
+    "status": "cancelled",
+    "purchased_at": "2026-11-02T16:00:23",
+    "total": 250.7,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006052",
+        "product_title": "Device Accessory 6052",
+        "unit_price": 109.78,
+        "line_total": 114.7
+      },
+      {
+        "product_id": "product_006052",
+        "product_title": "Device Accessory 6052",
+        "unit_price": 130.93,
+        "line_total": 136
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0001187",
+    "status": "shipped",
+    "purchased_at": "2025-05-27T15:28:07",
+    "total": 69.55,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000493",
+        "product_title": "Wellness Item 0493",
+        "unit_price": 10.8,
+        "line_total": 18.43
+      },
+      {
+        "product_id": "product_003860",
+        "product_title": "Training Gear 3860",
+        "unit_price": 41.73,
+        "line_total": 51.12
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001197",
+    "status": "processing",
+    "purchased_at": "2026-09-03T21:48:18",
+    "total": 180.81,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002802",
+        "product_title": "Accent Furniture 2802",
+        "unit_price": 172.3,
+        "line_total": 180.81
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 5
+    }
+  },
+  {
+    "id": "order_0001211",
+    "status": "cancelled",
+    "purchased_at": "2024-08-23T14:37:52",
+    "total": 77.46,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000188",
+        "product_title": "Fashion Accessory 0188",
+        "unit_price": 70.13,
+        "line_total": 77.46
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001221",
+    "status": "shipped",
+    "purchased_at": "2026-10-12T10:38:25",
+    "total": 436.8,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003447",
+        "product_title": "Media Collection 3447",
+        "unit_price": 11.46,
+        "line_total": 19.89
+      },
+      {
+        "product_id": "product_005472",
+        "product_title": "Decor Item 5472",
+        "unit_price": 405.85,
+        "line_total": 416.91
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001231",
+    "status": "cancelled",
+    "purchased_at": "2025-02-10T12:07:12",
+    "total": 229.11,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000484",
+        "product_title": "Family Game 0484",
+        "unit_price": 28.63,
+        "line_total": 34.49
+      },
+      {
+        "product_id": "product_007542",
+        "product_title": "Charging Kit 7542",
+        "unit_price": 113.04,
+        "line_total": 119.78
+      },
+      {
+        "product_id": "product_004400",
+        "product_title": "Nursery Accessory 4400",
+        "unit_price": 69.57,
+        "line_total": 74.84
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001236",
+    "status": "cancelled",
+    "purchased_at": "2025-12-23T11:01:58",
+    "total": 103.82,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001316",
+        "product_title": "Home Textile 1316",
+        "unit_price": 95.27,
+        "line_total": 103.82
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0001237",
+    "status": "processing",
+    "purchased_at": "2026-04-19T16:54:01",
+    "total": 53.59,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006587",
+        "product_title": "Infant Care Item 6587",
+        "unit_price": 45.64,
+        "line_total": 53.59
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0001250",
+    "status": "processing",
+    "purchased_at": "2025-09-07T22:41:28",
+    "total": 111.98,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007982",
+        "product_title": "Fitness Item 7982",
+        "unit_price": 104.29,
+        "line_total": 111.98
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0001253",
+    "status": "processing",
+    "purchased_at": "2026-05-06T17:11:00",
+    "total": 198.04,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004091",
+        "product_title": "Nursery Accessory 4091",
+        "unit_price": 41.27,
+        "line_total": 46.8
+      },
+      {
+        "product_id": "product_003963",
+        "product_title": "Infant Care Item 3963",
+        "unit_price": 103.03,
+        "line_total": 109.46
+      },
+      {
+        "product_id": "product_003627",
+        "product_title": "Desk Set 3627",
+        "unit_price": 36.56,
+        "line_total": 41.78
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001264",
+    "status": "processing",
+    "purchased_at": "2026-04-18T14:11:54",
+    "total": 82.69,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000194",
+        "product_title": "Outdoor Kit 0194",
+        "unit_price": 73.29,
+        "line_total": 82.69
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001295",
+    "status": "processing",
+    "purchased_at": "2025-04-14T12:42:31",
+    "total": 119.86,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006061",
+        "product_title": "Device Accessory 6061",
+        "unit_price": 111.55,
+        "line_total": 119.86
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001306",
+    "status": "cancelled",
+    "purchased_at": "2025-02-19T21:43:41",
+    "total": 179.81,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000159",
+        "product_title": "Infant Care Item 0159",
+        "unit_price": 78.15,
+        "line_total": 86.83
+      },
+      {
+        "product_id": "product_000159",
+        "product_title": "Infant Care Item 0159",
+        "unit_price": 84.76,
+        "line_total": 92.98
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0001313",
+    "status": "cancelled",
+    "purchased_at": "2026-01-10T22:46:38",
+    "total": 239.21,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002676",
+        "product_title": "Charging Kit 2676",
+        "unit_price": 231.8,
+        "line_total": 239.21
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 6
+    }
+  },
+  {
+    "id": "order_0001319",
+    "status": "cancelled",
+    "purchased_at": "2025-11-16T18:01:39",
+    "total": 173.76,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007653",
+        "product_title": "Maintenance Kit 7653",
+        "unit_price": 124.11,
+        "line_total": 131.22
+      },
+      {
+        "product_id": "product_004047",
+        "product_title": "Family Game 4047",
+        "unit_price": 36.37,
+        "line_total": 42.54
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001325",
+    "status": "shipped",
+    "purchased_at": "2026-05-18T15:34:01",
+    "total": 61.42,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005828",
+        "product_title": "Bedding Set 5828",
+        "unit_price": 22.76,
+        "line_total": 32.46
+      },
+      {
+        "product_id": "product_005828",
+        "product_title": "Bedding Set 5828",
+        "unit_price": 19.48,
+        "line_total": 28.96
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001327",
+    "status": "processing",
+    "purchased_at": "2026-11-26T12:34:48",
+    "total": 29.01,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002715",
+        "product_title": "Pet Care Item 2715",
+        "unit_price": 20.29,
+        "line_total": 29.01
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001333",
+    "status": "cancelled",
+    "purchased_at": "2026-12-29T21:50:57",
+    "total": 58.2,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004654",
+        "product_title": "Media Collection 4654",
+        "unit_price": 52.08,
+        "line_total": 58.2
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001344",
+    "status": "shipped",
+    "purchased_at": "2026-12-30T19:59:06",
+    "total": 222.01,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002129",
+        "product_title": "Travel Item 2129",
+        "unit_price": 70.48,
+        "line_total": 81.25
+      },
+      {
+        "product_id": "product_006869",
+        "product_title": "Household Tool 6869",
+        "unit_price": 26.07,
+        "line_total": 38.81
+      },
+      {
+        "product_id": "product_002221",
+        "product_title": "Office Organizer 2221",
+        "unit_price": 30.11,
+        "line_total": 38.84
+      },
+      {
+        "product_id": "product_000047",
+        "product_title": "Organization Set 0047",
+        "unit_price": 21.59,
+        "line_total": 30.45
+      },
+      {
+        "product_id": "product_006701",
+        "product_title": "Feeding Set 6701",
+        "unit_price": 24.34,
+        "line_total": 32.66
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001345",
+    "status": "shipped",
+    "purchased_at": "2024-08-04T15:04:54",
+    "total": 51.93,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001565",
+        "product_title": "Feeding Set 1565",
+        "unit_price": 16.65,
+        "line_total": 25.15
+      },
+      {
+        "product_id": "product_003703",
+        "product_title": "Media Collection 3703",
+        "unit_price": 19.4,
+        "line_total": 26.78
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001348",
+    "status": "processing",
+    "purchased_at": "2026-09-17T13:47:37",
+    "total": 129.51,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000941",
+        "product_title": "Device Accessory 0941",
+        "unit_price": 121.71,
+        "line_total": 129.51
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0001388",
+    "status": "cancelled",
+    "purchased_at": "2024-06-11T19:43:22",
+    "total": 431.79,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007982",
+        "product_title": "Fitness Item 7982",
+        "unit_price": 92.67,
+        "line_total": 98.04
+      },
+      {
+        "product_id": "product_000085",
+        "product_title": "Accent Furniture 0085",
+        "unit_price": 219.62,
+        "line_total": 238.27
+      },
+      {
+        "product_id": "product_005085",
+        "product_title": "Seasonal Wear 5085",
+        "unit_price": 90.56,
+        "line_total": 95.48
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001389",
+    "status": "shipped",
+    "purchased_at": "2024-01-15T21:19:18",
+    "total": 214.07,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000389",
+        "product_title": "Travel Item 0389",
+        "unit_price": 204.47,
+        "line_total": 214.07
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 5
+    }
+  },
+  {
+    "id": "order_0001400",
+    "status": "shipped",
+    "purchased_at": "2026-12-31T15:26:14",
+    "total": 19.48,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003230",
+        "product_title": "Desk Set 3230",
+        "unit_price": 11.76,
+        "line_total": 19.48
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0001413",
+    "status": "cancelled",
+    "purchased_at": "2024-03-14T09:44:06",
+    "total": 112.61,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007008",
+        "product_title": "Training Gear 7008",
+        "unit_price": 104.79,
+        "line_total": 112.61
+      }
+    ],
+    "payment": {
+      "type": "gift_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001421",
+    "status": "cancelled",
+    "purchased_at": "2026-06-12T21:59:54",
+    "total": 216.84,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006404",
+        "product_title": "Connectivity Kit 6404",
+        "unit_price": 146.61,
+        "line_total": 155.02
+      },
+      {
+        "product_id": "product_004959",
+        "product_title": "Everyday Apparel 4959",
+        "unit_price": 54.33,
+        "line_total": 61.82
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0001430",
+    "status": "cancelled",
+    "purchased_at": "2024-11-26T17:49:45",
+    "total": 522.6,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003574",
+        "product_title": "Travel Item 3574",
+        "unit_price": 91.53,
+        "line_total": 102.41
+      },
+      {
+        "product_id": "product_003131",
+        "product_title": "Phone Item 3131",
+        "unit_price": 153.48,
+        "line_total": 161.9
+      },
+      {
+        "product_id": "product_006617",
+        "product_title": "Connectivity Kit 6617",
+        "unit_price": 249.79,
+        "line_total": 258.29
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 5
+    }
+  },
+  {
+    "id": "order_0001444",
+    "status": "cancelled",
+    "purchased_at": "2024-03-21T14:20:01",
+    "total": 35.29,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001740",
+        "product_title": "Care Set 1740",
+        "unit_price": 30.07,
+        "line_total": 35.29
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001486",
+    "status": "cancelled",
+    "purchased_at": "2024-10-19T09:14:45",
+    "total": 159.42,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007472",
+        "product_title": "Activity Set 7472",
+        "unit_price": 47.09,
+        "line_total": 52.75
+      },
+      {
+        "product_id": "product_003754",
+        "product_title": "Outdoor Kit 3754",
+        "unit_price": 100.05,
+        "line_total": 106.67
+      }
+    ],
+    "payment": {
+      "type": "gift_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001496",
+    "status": "cancelled",
+    "purchased_at": "2025-07-26T14:12:15",
+    "total": 350.85,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000418",
+        "product_title": "Phone Item 0418",
+        "unit_price": 229.34,
+        "line_total": 237.29
+      },
+      {
+        "product_id": "product_006709",
+        "product_title": "Learning Toy 6709",
+        "unit_price": 105.67,
+        "line_total": 113.56
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001660",
+    "status": "cancelled",
+    "purchased_at": "2026-07-24T11:30:46",
+    "total": 157.2,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004466",
+        "product_title": "Outdoor Kit 4466",
+        "unit_price": 38.87,
+        "line_total": 53.3
+      },
+      {
+        "product_id": "product_006665",
+        "product_title": "Bedding Set 6665",
+        "unit_price": 95.6,
+        "line_total": 103.9
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0001665",
+    "status": "cancelled",
+    "purchased_at": "2026-09-01T14:42:39",
+    "total": 53.76,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000084",
+        "product_title": "Comfort Item 0084",
+        "unit_price": 42.75,
+        "line_total": 53.76
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001683",
+    "status": "cancelled",
+    "purchased_at": "2025-12-09T16:05:20",
+    "total": 112.46,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_002357",
+        "product_title": "Feeding Set 2357",
+        "unit_price": 69.46,
+        "line_total": 78.38
+      },
+      {
+        "product_id": "product_000718",
+        "product_title": "Learning Guide 0718",
+        "unit_price": 25.81,
+        "line_total": 34.08
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001698",
+    "status": "cancelled",
+    "purchased_at": "2025-12-24T22:18:02",
+    "total": 440.55,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007499",
+        "product_title": "Charging Kit 7499",
+        "unit_price": 299.92,
+        "line_total": 308.68
+      },
+      {
+        "product_id": "product_001520",
+        "product_title": "Mobile Accessory 1520",
+        "unit_price": 88.52,
+        "line_total": 97.66
+      },
+      {
+        "product_id": "product_006891",
+        "product_title": "Household Tool 6891",
+        "unit_price": 25.15,
+        "line_total": 34.21
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001843",
+    "status": "cancelled",
+    "purchased_at": "2025-04-29T19:56:50",
+    "total": 68.73,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007852",
+        "product_title": "Care Set 7852",
+        "unit_price": 20.51,
+        "line_total": 28.93
+      },
+      {
+        "product_id": "product_002112",
+        "product_title": "Comfort Item 2112",
+        "unit_price": 29.82,
+        "line_total": 39.8
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001879",
+    "status": "cancelled",
+    "purchased_at": "2026-12-19T16:17:47",
+    "total": 97.5,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_007254",
+        "product_title": "Storage Unit 7254",
+        "unit_price": 88.5,
+        "line_total": 97.5
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001913",
+    "status": "cancelled",
+    "purchased_at": "2026-10-30T21:30:58",
+    "total": 112.67,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_003302",
+        "product_title": "Outdoor Kit 3302",
+        "unit_price": 102.15,
+        "line_total": 112.67
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0001969",
+    "status": "cancelled",
+    "purchased_at": "2025-06-19T21:19:29",
+    "total": 90.19,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000623",
+        "product_title": "Reference Book 0623",
+        "unit_price": 21.29,
+        "line_total": 29.48
+      },
+      {
+        "product_id": "product_001710",
+        "product_title": "Office Organizer 1710",
+        "unit_price": 25.64,
+        "line_total": 33.35
+      },
+      {
+        "product_id": "product_000623",
+        "product_title": "Reference Book 0623",
+        "unit_price": 20.03,
+        "line_total": 27.36
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002058",
+    "status": "cancelled",
+    "purchased_at": "2025-03-24T16:36:19",
+    "total": 76.72,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000466",
+        "product_title": "Daily Essential 0466",
+        "unit_price": 26.07,
+        "line_total": 34.56
+      },
+      {
+        "product_id": "product_007598",
+        "product_title": "Daily Essential 7598",
+        "unit_price": 33.99,
+        "line_total": 42.16
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002062",
+    "status": "cancelled",
+    "purchased_at": "2025-10-18T15:58:59",
+    "total": 135.95,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004276",
+        "product_title": "Learning Toy 4276",
+        "unit_price": 82.48,
+        "line_total": 90.26
+      },
+      {
+        "product_id": "product_002481",
+        "product_title": "Travel Item 2481",
+        "unit_price": 34.9,
+        "line_total": 45.69
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 3
+    }
+  },
+  {
+    "id": "order_0002092",
+    "status": "cancelled",
+    "purchased_at": "2025-05-03T11:52:30",
+    "total": 54.91,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_006829",
+        "product_title": "Pet Activity Item 6829",
+        "unit_price": 50.11,
+        "line_total": 54.91
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002112",
+    "status": "cancelled",
+    "purchased_at": "2025-10-01T17:41:04",
+    "total": 179.38,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_004473",
+        "product_title": "Maintenance Kit 4473",
+        "unit_price": 168.68,
+        "line_total": 179.38
+      }
+    ],
+    "payment": {
+      "type": "credit_card",
+      "installments": 2
+    }
+  },
+  {
+    "id": "order_0002127",
+    "status": "cancelled",
+    "purchased_at": "2025-04-22T11:21:16",
+    "total": 55.19,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_001488",
+        "product_title": "Timepiece 1488",
+        "unit_price": 47,
+        "line_total": 55.19
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002148",
+    "status": "cancelled",
+    "purchased_at": "2026-11-05T21:06:19",
+    "total": 104.6,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_005608",
+        "product_title": "Writing Kit 5608",
+        "unit_price": 95.89,
+        "line_total": 104.6
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002168",
+    "status": "cancelled",
+    "purchased_at": "2025-09-19T19:05:57",
+    "total": 71.88,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000340",
+        "product_title": "Keepsake Item 0340",
+        "unit_price": 64.32,
+        "line_total": 71.88
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002185",
+    "status": "cancelled",
+    "purchased_at": "2024-08-01T16:35:27",
+    "total": 33.76,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000607",
+        "product_title": "Media Collection 0607",
+        "unit_price": 25.69,
+        "line_total": 33.76
+      }
+    ],
+    "payment": {
+      "type": "digital_wallet",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002212",
+    "status": "cancelled",
+    "purchased_at": "2026-06-22T16:31:47",
+    "total": 123.53,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000718",
+        "product_title": "Learning Guide 0718",
+        "unit_price": 29.84,
+        "line_total": 37.65
+      },
+      {
+        "product_id": "product_006864",
+        "product_title": "Accent Furniture 6864",
+        "unit_price": 74.2,
+        "line_total": 85.88
+      }
+    ],
+    "payment": {
+      "type": "debit_card",
+      "installments": 1
+    }
+  },
+  {
+    "id": "order_0002215",
+    "status": "cancelled",
+    "purchased_at": "2026-03-26T13:12:01",
+    "total": 192.12,
+    "currency": "USD",
+    "items": [
+      {
+        "product_id": "product_000340",
+        "product_title": "Keepsake Item 0340",
+        "unit_price": 59.5,
+        "line_total": 64.35
+      },
+      {
+        "product_id": "product_007223",
+        "product_title": "Bedding Set 7223",
+        "unit_price": 121.8,
+        "line_total": 127.77
+      }
+    ],
+    "payment": {
+      "type": "bank_transfer",
+      "installments": 1
+    }
+  }
+]

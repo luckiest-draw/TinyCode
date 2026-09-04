@@ -37,6 +37,21 @@ server.tool("search_product_knowledge", "Search product and policy documents wit
   content: [{ type: "text", text: JSON.stringify(service.searchProductKnowledge(query, top_k), null, 2) }],
 }));
 
+server.tool("search_orders", "Search order records, optionally filtering by status (processing, shipped, delivered, cancelled).", {
+  status: z.enum(["processing", "shipped", "delivered", "cancelled"]).optional(),
+  limit: z.number().int().min(1).max(100).optional(),
+}, async ({ status, limit }) => ({
+  content: [{ type: "text", text: JSON.stringify(
+    (() => {
+      const orders = service.searchOrders({ status, limit });
+      return orders.length > 0
+        ? { ok: true, count: orders.length, orders }
+        : { ok: false, error: status ? `no orders with status "${status}"` : "order_source_not_configured" };
+    })(),
+    null, 2,
+  ) }],
+}));
+
 server.tool("get_logistics_status", "Query the latest logistics record for an order.", {
   order_id: z.string().min(1),
 }, async ({ order_id }) => ({

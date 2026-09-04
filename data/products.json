@@ -1,0 +1,2760 @@
+[
+  {
+    "id": "product_000001",
+    "title": "Mobile Accessory 0001",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 0001\".",
+    "price": 215.06,
+    "stock": 2
+  },
+  {
+    "id": "product_000002",
+    "title": "Keepsake Item 0002",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 0002\".",
+    "price": 162.94,
+    "stock": 3
+  },
+  {
+    "id": "product_000003",
+    "title": "Writing Kit 0003",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 0003\".",
+    "price": 26.93,
+    "stock": 4
+  },
+  {
+    "id": "product_000004",
+    "title": "Writing Kit 0004",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 0004\".",
+    "price": 17.5,
+    "stock": 177
+  },
+  {
+    "id": "product_000005",
+    "title": "Learning Guide 0005",
+    "description": "Books & Media — synthetic demo listing \"Learning Guide 0005\".",
+    "price": 21.16,
+    "stock": 178
+  },
+  {
+    "id": "product_000006",
+    "title": "Nursery Accessory 0006",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 0006\".",
+    "price": 31.93,
+    "stock": 179
+  },
+  {
+    "id": "product_000007",
+    "title": "Maintenance Kit 0007",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 0007\".",
+    "price": 114.68,
+    "stock": 0
+  },
+  {
+    "id": "product_000008",
+    "title": "Feeding Item 0008",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 0008\".",
+    "price": 74.21,
+    "stock": 9
+  },
+  {
+    "id": "product_000009",
+    "title": "Pet Activity Item 0009",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 0009\".",
+    "price": 31.84,
+    "stock": 10
+  },
+  {
+    "id": "product_000010",
+    "title": "Training Gear 0010",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 0010\".",
+    "price": 137.62,
+    "stock": 152
+  },
+  {
+    "id": "product_000011",
+    "title": "Accent Furniture 0011",
+    "description": "Furniture & Decor — synthetic demo listing \"Accent Furniture 0011\".",
+    "price": 505.94,
+    "stock": 151
+  },
+  {
+    "id": "product_000012",
+    "title": "Comfort Item 0012",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 0012\".",
+    "price": 97.38,
+    "stock": 150
+  },
+  {
+    "id": "product_000013",
+    "title": "Infant Care Item 0013",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 0013\".",
+    "price": 123.5,
+    "stock": 149
+  },
+  {
+    "id": "product_000014",
+    "title": "Maintenance Kit 0014",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 0014\".",
+    "price": 148.48,
+    "stock": 148
+  },
+  {
+    "id": "product_000015",
+    "title": "Storage Unit 0015",
+    "description": "Furniture & Decor — synthetic demo listing \"Storage Unit 0015\".",
+    "price": 507.8,
+    "stock": 147
+  },
+  {
+    "id": "product_000016",
+    "title": "Media Collection 0016",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 0016\".",
+    "price": 16.68,
+    "stock": 146
+  },
+  {
+    "id": "product_000017",
+    "title": "Nursery Accessory 0017",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 0017\".",
+    "price": 42.53,
+    "stock": 145
+  },
+  {
+    "id": "product_000018",
+    "title": "Kitchen Item 0018",
+    "description": "Home Goods — synthetic demo listing \"Kitchen Item 0018\".",
+    "price": 41.46,
+    "stock": 160
+  },
+  {
+    "id": "product_000019",
+    "title": "Home Textile 0019",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 0019\".",
+    "price": 63.44,
+    "stock": 159
+  },
+  {
+    "id": "product_000020",
+    "title": "Learning Toy 0020",
+    "description": "Toys & Games — synthetic demo listing \"Learning Toy 0020\".",
+    "price": 78.51,
+    "stock": 67
+  },
+  {
+    "id": "product_000021",
+    "title": "Office Organizer 0021",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 0021\".",
+    "price": 16.73,
+    "stock": 68
+  },
+  {
+    "id": "product_000022",
+    "title": "Fitness Item 0022",
+    "description": "Sports & Outdoors — synthetic demo listing \"Fitness Item 0022\".",
+    "price": 65.31,
+    "stock": 65
+  },
+  {
+    "id": "product_000023",
+    "title": "Phone Item 0023",
+    "description": "Mobile & Telecom — synthetic demo listing \"Phone Item 0023\".",
+    "price": 130.23,
+    "stock": 66
+  },
+  {
+    "id": "product_000024",
+    "title": "Activity Set 0024",
+    "description": "Toys & Games — synthetic demo listing \"Activity Set 0024\".",
+    "price": 69.87,
+    "stock": 63
+  },
+  {
+    "id": "product_000025",
+    "title": "Writing Kit 0025",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 0025\".",
+    "price": 38.97,
+    "stock": 64
+  },
+  {
+    "id": "product_000026",
+    "title": "Wellness Item 0026",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 0026\".",
+    "price": 37.76,
+    "stock": 61
+  },
+  {
+    "id": "product_000027",
+    "title": "Media Collection 0027",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 0027\".",
+    "price": 21.25,
+    "stock": 62
+  },
+  {
+    "id": "product_000028",
+    "title": "Seasonal Wear 0028",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 0028\".",
+    "price": 62.64,
+    "stock": 59
+  },
+  {
+    "id": "product_000029",
+    "title": "Feeding Item 0029",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 0029\".",
+    "price": 26.87,
+    "stock": 60
+  },
+  {
+    "id": "product_000030",
+    "title": "Office Organizer 0030",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 0030\".",
+    "price": 27.87,
+    "stock": 30
+  },
+  {
+    "id": "product_000031",
+    "title": "Infant Care Item 0031",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 0031\".",
+    "price": 32.36,
+    "stock": 29
+  },
+  {
+    "id": "product_000032",
+    "title": "Planting Set 0032",
+    "description": "Garden & Outdoor — synthetic demo listing \"Planting Set 0032\".",
+    "price": 102.91,
+    "stock": 32
+  },
+  {
+    "id": "product_000033",
+    "title": "Phone Item 0033",
+    "description": "Mobile & Telecom — synthetic demo listing \"Phone Item 0033\".",
+    "price": 161.91,
+    "stock": 31
+  },
+  {
+    "id": "product_000034",
+    "title": "Connectivity Kit 0034",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 0034\".",
+    "price": 47.64,
+    "stock": 34
+  },
+  {
+    "id": "product_000035",
+    "title": "Office Organizer 0035",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 0035\".",
+    "price": 19.88,
+    "stock": 33
+  },
+  {
+    "id": "product_000036",
+    "title": "Device Accessory 0036",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 0036\".",
+    "price": 91.08,
+    "stock": 36
+  },
+  {
+    "id": "product_000037",
+    "title": "Bedding Set 0037",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 0037\".",
+    "price": 196.16,
+    "stock": 35
+  },
+  {
+    "id": "product_000038",
+    "title": "Gift Set 0038",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 0038\".",
+    "price": 63.06,
+    "stock": 38
+  },
+  {
+    "id": "product_000039",
+    "title": "Home Textile 0039",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 0039\".",
+    "price": 38.17,
+    "stock": 37
+  },
+  {
+    "id": "product_000040",
+    "title": "Training Gear 0040",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 0040\".",
+    "price": 79.02,
+    "stock": 125
+  },
+  {
+    "id": "product_000041",
+    "title": "Reference Book 0041",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 0041\".",
+    "price": 31.29,
+    "stock": 126
+  },
+  {
+    "id": "product_000042",
+    "title": "Timepiece 0042",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 0042\".",
+    "price": 63.11,
+    "stock": 127
+  },
+  {
+    "id": "product_000043",
+    "title": "Mobile Accessory 0043",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 0043\".",
+    "price": 123.47,
+    "stock": 128
+  },
+  {
+    "id": "product_000044",
+    "title": "Reference Book 0044",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 0044\".",
+    "price": 54.98,
+    "stock": 129
+  },
+  {
+    "id": "product_000045",
+    "title": "Feeding Set 0045",
+    "description": "Pet Supplies — synthetic demo listing \"Feeding Set 0045\".",
+    "price": 15.24,
+    "stock": 130
+  },
+  {
+    "id": "product_000046",
+    "title": "Planting Set 0046",
+    "description": "Garden & Outdoor — synthetic demo listing \"Planting Set 0046\".",
+    "price": 30.75,
+    "stock": 131
+  },
+  {
+    "id": "product_000047",
+    "title": "Organization Set 0047",
+    "description": "Home Goods — synthetic demo listing \"Organization Set 0047\".",
+    "price": 25.05,
+    "stock": 132
+  },
+  {
+    "id": "product_000048",
+    "title": "Mobile Accessory 0048",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 0048\".",
+    "price": 566.2,
+    "stock": 117
+  },
+  {
+    "id": "product_000049",
+    "title": "Wellness Item 0049",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 0049\".",
+    "price": 41.03,
+    "stock": 118
+  },
+  {
+    "id": "product_000050",
+    "title": "Maintenance Kit 0050",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 0050\".",
+    "price": 51.55,
+    "stock": 96
+  },
+  {
+    "id": "product_000051",
+    "title": "Feeding Set 0051",
+    "description": "Pet Supplies — synthetic demo listing \"Feeding Set 0051\".",
+    "price": 31.78,
+    "stock": 95
+  },
+  {
+    "id": "product_000052",
+    "title": "Keepsake Item 0052",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 0052\".",
+    "price": 121.6,
+    "stock": 94
+  },
+  {
+    "id": "product_000053",
+    "title": "Device Accessory 0053",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 0053\".",
+    "price": 100.7,
+    "stock": 93
+  },
+  {
+    "id": "product_000054",
+    "title": "Timepiece 0054",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 0054\".",
+    "price": 76.76,
+    "stock": 100
+  },
+  {
+    "id": "product_000055",
+    "title": "Writing Kit 0055",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 0055\".",
+    "price": 33.38,
+    "stock": 99
+  },
+  {
+    "id": "product_000056",
+    "title": "Timepiece 0056",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 0056\".",
+    "price": 106.58,
+    "stock": 98
+  },
+  {
+    "id": "product_000057",
+    "title": "Connectivity Kit 0057",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 0057\".",
+    "price": 35.6,
+    "stock": 97
+  },
+  {
+    "id": "product_000058",
+    "title": "Bedding Set 0058",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 0058\".",
+    "price": 102.33,
+    "stock": 88
+  },
+  {
+    "id": "product_000059",
+    "title": "Wellness Item 0059",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 0059\".",
+    "price": 43.04,
+    "stock": 87
+  },
+  {
+    "id": "product_000060",
+    "title": "Office Organizer 0060",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 0060\".",
+    "price": 25.57,
+    "stock": 55
+  },
+  {
+    "id": "product_000068",
+    "title": "Device Accessory 0068",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 0068\".",
+    "price": 76.94,
+    "stock": 63
+  },
+  {
+    "id": "product_000084",
+    "title": "Comfort Item 0084",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 0084\".",
+    "price": 41.16,
+    "stock": 65
+  },
+  {
+    "id": "product_000085",
+    "title": "Accent Furniture 0085",
+    "description": "Furniture & Decor — synthetic demo listing \"Accent Furniture 0085\".",
+    "price": 222.77,
+    "stock": 66
+  },
+  {
+    "id": "product_000159",
+    "title": "Infant Care Item 0159",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 0159\".",
+    "price": 65.91,
+    "stock": 108
+  },
+  {
+    "id": "product_000188",
+    "title": "Fashion Accessory 0188",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 0188\".",
+    "price": 71.09,
+    "stock": 134
+  },
+  {
+    "id": "product_000194",
+    "title": "Outdoor Kit 0194",
+    "description": "Sports & Outdoors — synthetic demo listing \"Outdoor Kit 0194\".",
+    "price": 72.63,
+    "stock": 135
+  },
+  {
+    "id": "product_000211",
+    "title": "Travel Item 0211",
+    "description": "Automotive — synthetic demo listing \"Travel Item 0211\".",
+    "price": 259.76,
+    "stock": 145
+  },
+  {
+    "id": "product_000215",
+    "title": "Audio Item 0215",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 0215\".",
+    "price": 365.54,
+    "stock": 149
+  },
+  {
+    "id": "product_000234",
+    "title": "Bedding Set 0234",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 0234\".",
+    "price": 97.9,
+    "stock": 108
+  },
+  {
+    "id": "product_000300",
+    "title": "Device Accessory 0300",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 0300\".",
+    "price": 118.77,
+    "stock": 84
+  },
+  {
+    "id": "product_000310",
+    "title": "Comfort Item 0310",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 0310\".",
+    "price": 106.82,
+    "stock": 113
+  },
+  {
+    "id": "product_000340",
+    "title": "Keepsake Item 0340",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 0340\".",
+    "price": 57.35,
+    "stock": 176
+  },
+  {
+    "id": "product_000367",
+    "title": "Kitchen Item 0367",
+    "description": "Home Goods — synthetic demo listing \"Kitchen Item 0367\".",
+    "price": 36.82,
+    "stock": 135
+  },
+  {
+    "id": "product_000385",
+    "title": "Audio Item 0385",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 0385\".",
+    "price": 201.68,
+    "stock": 11
+  },
+  {
+    "id": "product_000389",
+    "title": "Travel Item 0389",
+    "description": "Automotive — synthetic demo listing \"Travel Item 0389\".",
+    "price": 184.37,
+    "stock": 23
+  },
+  {
+    "id": "product_000418",
+    "title": "Phone Item 0418",
+    "description": "Mobile & Telecom — synthetic demo listing \"Phone Item 0418\".",
+    "price": 225.63,
+    "stock": 120
+  },
+  {
+    "id": "product_000454",
+    "title": "Daily Essential 0454",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 0454\".",
+    "price": 28.46,
+    "stock": 16
+  },
+  {
+    "id": "product_000466",
+    "title": "Daily Essential 0466",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 0466\".",
+    "price": 23.03,
+    "stock": 77
+  },
+  {
+    "id": "product_000476",
+    "title": "Learning Toy 0476",
+    "description": "Toys & Games — synthetic demo listing \"Learning Toy 0476\".",
+    "price": 27.35,
+    "stock": 84
+  },
+  {
+    "id": "product_000478",
+    "title": "Desk Set 0478",
+    "description": "Office Supplies — synthetic demo listing \"Desk Set 0478\".",
+    "price": 26.16,
+    "stock": 70
+  },
+  {
+    "id": "product_000484",
+    "title": "Family Game 0484",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 0484\".",
+    "price": 25.37,
+    "stock": 161
+  },
+  {
+    "id": "product_000493",
+    "title": "Wellness Item 0493",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 0493\".",
+    "price": 12.49,
+    "stock": 73
+  },
+  {
+    "id": "product_000496",
+    "title": "Office Organizer 0496",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 0496\".",
+    "price": 15.51,
+    "stock": 78
+  },
+  {
+    "id": "product_000542",
+    "title": "Comfort Item 0542",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 0542\".",
+    "price": 106.12,
+    "stock": 24
+  },
+  {
+    "id": "product_000553",
+    "title": "Writing Kit 0553",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 0553\".",
+    "price": 11.67,
+    "stock": 102
+  },
+  {
+    "id": "product_000588",
+    "title": "Maintenance Kit 0588",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 0588\".",
+    "price": 99.8,
+    "stock": 18
+  },
+  {
+    "id": "product_000607",
+    "title": "Media Collection 0607",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 0607\".",
+    "price": 27.93,
+    "stock": 86
+  },
+  {
+    "id": "product_000623",
+    "title": "Reference Book 0623",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 0623\".",
+    "price": 19.28,
+    "stock": 28
+  },
+  {
+    "id": "product_000645",
+    "title": "Infant Care Item 0645",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 0645\".",
+    "price": 143.35,
+    "stock": 92
+  },
+  {
+    "id": "product_000687",
+    "title": "Pet Activity Item 0687",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 0687\".",
+    "price": 42.13,
+    "stock": 154
+  },
+  {
+    "id": "product_000718",
+    "title": "Learning Guide 0718",
+    "description": "Books & Media — synthetic demo listing \"Learning Guide 0718\".",
+    "price": 22.73,
+    "stock": 169
+  },
+  {
+    "id": "product_000774",
+    "title": "Office Organizer 0774",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 0774\".",
+    "price": 54.87,
+    "stock": 63
+  },
+  {
+    "id": "product_000786",
+    "title": "Keepsake Item 0786",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 0786\".",
+    "price": 138.5,
+    "stock": 134
+  },
+  {
+    "id": "product_000806",
+    "title": "Everyday Apparel 0806",
+    "description": "Fashion — synthetic demo listing \"Everyday Apparel 0806\".",
+    "price": 85.22,
+    "stock": 55
+  },
+  {
+    "id": "product_000812",
+    "title": "Activity Set 0812",
+    "description": "Toys & Games — synthetic demo listing \"Activity Set 0812\".",
+    "price": 51.96,
+    "stock": 26
+  },
+  {
+    "id": "product_000825",
+    "title": "Fashion Accessory 0825",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 0825\".",
+    "price": 43.1,
+    "stock": 164
+  },
+  {
+    "id": "product_000881",
+    "title": "Household Tool 0881",
+    "description": "Home Goods — synthetic demo listing \"Household Tool 0881\".",
+    "price": 88.42,
+    "stock": 42
+  },
+  {
+    "id": "product_000941",
+    "title": "Device Accessory 0941",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 0941\".",
+    "price": 154.44,
+    "stock": 145
+  },
+  {
+    "id": "product_000988",
+    "title": "Gift Set 0988",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 0988\".",
+    "price": 83.99,
+    "stock": 150
+  },
+  {
+    "id": "product_001066",
+    "title": "Vehicle Accessory 1066",
+    "description": "Automotive — synthetic demo listing \"Vehicle Accessory 1066\".",
+    "price": 221.88,
+    "stock": 52
+  },
+  {
+    "id": "product_001093",
+    "title": "Connectivity Kit 1093",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 1093\".",
+    "price": 51.24,
+    "stock": 16
+  },
+  {
+    "id": "product_001128",
+    "title": "Comfort Item 1128",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 1128\".",
+    "price": 44.19,
+    "stock": 73
+  },
+  {
+    "id": "product_001140",
+    "title": "Accent Furniture 1140",
+    "description": "Furniture & Decor — synthetic demo listing \"Accent Furniture 1140\".",
+    "price": 182.56,
+    "stock": 135
+  },
+  {
+    "id": "product_001141",
+    "title": "Device Accessory 1141",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 1141\".",
+    "price": 71.1,
+    "stock": 136
+  },
+  {
+    "id": "product_001169",
+    "title": "Keepsake Item 1169",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 1169\".",
+    "price": 177.5,
+    "stock": 2
+  },
+  {
+    "id": "product_001249",
+    "title": "Home Textile 1249",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 1249\".",
+    "price": 43.41,
+    "stock": 105
+  },
+  {
+    "id": "product_001305",
+    "title": "Training Gear 1305",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 1305\".",
+    "price": 326.52,
+    "stock": 42
+  },
+  {
+    "id": "product_001316",
+    "title": "Home Textile 1316",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 1316\".",
+    "price": 87,
+    "stock": 10
+  },
+  {
+    "id": "product_001317",
+    "title": "Gift Set 1317",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 1317\".",
+    "price": 138.84,
+    "stock": 9
+  },
+  {
+    "id": "product_001318",
+    "title": "Bedding Set 1318",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 1318\".",
+    "price": 38.67,
+    "stock": 24
+  },
+  {
+    "id": "product_001325",
+    "title": "Feeding Set 1325",
+    "description": "Pet Supplies — synthetic demo listing \"Feeding Set 1325\".",
+    "price": 55.71,
+    "stock": 4
+  },
+  {
+    "id": "product_001348",
+    "title": "Outdoor Accessory 1348",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 1348\".",
+    "price": 142.94,
+    "stock": 57
+  },
+  {
+    "id": "product_001370",
+    "title": "Training Gear 1370",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 1370\".",
+    "price": 30,
+    "stock": 94
+  },
+  {
+    "id": "product_001381",
+    "title": "Reference Book 1381",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 1381\".",
+    "price": 27.13,
+    "stock": 114
+  },
+  {
+    "id": "product_001415",
+    "title": "Reference Book 1415",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 1415\".",
+    "price": 17.37,
+    "stock": 98
+  },
+  {
+    "id": "product_001456",
+    "title": "Planting Set 1456",
+    "description": "Garden & Outdoor — synthetic demo listing \"Planting Set 1456\".",
+    "price": 73.79,
+    "stock": 71
+  },
+  {
+    "id": "product_001461",
+    "title": "Outdoor Accessory 1461",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 1461\".",
+    "price": 156.47,
+    "stock": 101
+  },
+  {
+    "id": "product_001488",
+    "title": "Timepiece 1488",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 1488\".",
+    "price": 38.23,
+    "stock": 108
+  },
+  {
+    "id": "product_001520",
+    "title": "Mobile Accessory 1520",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 1520\".",
+    "price": 88.53,
+    "stock": 145
+  },
+  {
+    "id": "product_001565",
+    "title": "Feeding Set 1565",
+    "description": "Pet Supplies — synthetic demo listing \"Feeding Set 1565\".",
+    "price": 15.59,
+    "stock": 146
+  },
+  {
+    "id": "product_001580",
+    "title": "Family Game 1580",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 1580\".",
+    "price": 49.06,
+    "stock": 91
+  },
+  {
+    "id": "product_001608",
+    "title": "Reference Book 1608",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 1608\".",
+    "price": 22.58,
+    "stock": 10
+  },
+  {
+    "id": "product_001628",
+    "title": "Household Tool 1628",
+    "description": "Home Goods — synthetic demo listing \"Household Tool 1628\".",
+    "price": 26.95,
+    "stock": 80
+  },
+  {
+    "id": "product_001650",
+    "title": "Audio Item 1650",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 1650\".",
+    "price": 205.93,
+    "stock": 171
+  },
+  {
+    "id": "product_001696",
+    "title": "Audio Item 1696",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 1696\".",
+    "price": 148.62,
+    "stock": 161
+  },
+  {
+    "id": "product_001710",
+    "title": "Office Organizer 1710",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 1710\".",
+    "price": 19.33,
+    "stock": 80
+  },
+  {
+    "id": "product_001711",
+    "title": "Comfort Item 1711",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 1711\".",
+    "price": 44.39,
+    "stock": 79
+  },
+  {
+    "id": "product_001725",
+    "title": "Gift Set 1725",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 1725\".",
+    "price": 104.15,
+    "stock": 76
+  },
+  {
+    "id": "product_001740",
+    "title": "Care Set 1740",
+    "description": "Health & Beauty — synthetic demo listing \"Care Set 1740\".",
+    "price": 26.61,
+    "stock": 17
+  },
+  {
+    "id": "product_001742",
+    "title": "Kitchen Item 1742",
+    "description": "Home Goods — synthetic demo listing \"Kitchen Item 1742\".",
+    "price": 114.05,
+    "stock": 19
+  },
+  {
+    "id": "product_001749",
+    "title": "Fashion Accessory 1749",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 1749\".",
+    "price": 120.89,
+    "stock": 10
+  },
+  {
+    "id": "product_001807",
+    "title": "Seasonal Wear 1807",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 1807\".",
+    "price": 45.35,
+    "stock": 93
+  },
+  {
+    "id": "product_001821",
+    "title": "Activity Set 1821",
+    "description": "Toys & Games — synthetic demo listing \"Activity Set 1821\".",
+    "price": 44.47,
+    "stock": 133
+  },
+  {
+    "id": "product_001874",
+    "title": "Kitchen Item 1874",
+    "description": "Home Goods — synthetic demo listing \"Kitchen Item 1874\".",
+    "price": 77.83,
+    "stock": 7
+  },
+  {
+    "id": "product_001893",
+    "title": "Nursery Accessory 1893",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 1893\".",
+    "price": 39.3,
+    "stock": 20
+  },
+  {
+    "id": "product_001963",
+    "title": "Timepiece 1963",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 1963\".",
+    "price": 121.7,
+    "stock": 156
+  },
+  {
+    "id": "product_001970",
+    "title": "Bedding Set 1970",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 1970\".",
+    "price": 83.99,
+    "stock": 124
+  },
+  {
+    "id": "product_002023",
+    "title": "Home Textile 2023",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 2023\".",
+    "price": 59.6,
+    "stock": 140
+  },
+  {
+    "id": "product_002025",
+    "title": "Pet Care Item 2025",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Care Item 2025\".",
+    "price": 95.55,
+    "stock": 134
+  },
+  {
+    "id": "product_002046",
+    "title": "Training Gear 2046",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 2046\".",
+    "price": 109.91,
+    "stock": 13
+  },
+  {
+    "id": "product_002112",
+    "title": "Comfort Item 2112",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 2112\".",
+    "price": 29.64,
+    "stock": 139
+  },
+  {
+    "id": "product_002113",
+    "title": "Fashion Accessory 2113",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 2113\".",
+    "price": 40.3,
+    "stock": 140
+  },
+  {
+    "id": "product_002116",
+    "title": "Office Organizer 2116",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 2116\".",
+    "price": 28.46,
+    "stock": 135
+  },
+  {
+    "id": "product_002120",
+    "title": "Nursery Accessory 2120",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 2120\".",
+    "price": 30.9,
+    "stock": 166
+  },
+  {
+    "id": "product_002124",
+    "title": "Activity Set 2124",
+    "description": "Toys & Games — synthetic demo listing \"Activity Set 2124\".",
+    "price": 89.94,
+    "stock": 170
+  },
+  {
+    "id": "product_002129",
+    "title": "Travel Item 2129",
+    "description": "Automotive — synthetic demo listing \"Travel Item 2129\".",
+    "price": 69.12,
+    "stock": 173
+  },
+  {
+    "id": "product_002134",
+    "title": "Family Game 2134",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 2134\".",
+    "price": 44.91,
+    "stock": 95
+  },
+  {
+    "id": "product_002142",
+    "title": "Seasonal Wear 2142",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 2142\".",
+    "price": 58.3,
+    "stock": 126
+  },
+  {
+    "id": "product_002175",
+    "title": "Daily Essential 2175",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 2175\".",
+    "price": 26.4,
+    "stock": 16
+  },
+  {
+    "id": "product_002179",
+    "title": "Bedding Set 2179",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 2179\".",
+    "price": 30.29,
+    "stock": 20
+  },
+  {
+    "id": "product_002211",
+    "title": "Writing Kit 2211",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 2211\".",
+    "price": 36.47,
+    "stock": 51
+  },
+  {
+    "id": "product_002221",
+    "title": "Office Organizer 2221",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 2221\".",
+    "price": 30.49,
+    "stock": 140
+  },
+  {
+    "id": "product_002253",
+    "title": "Seasonal Wear 2253",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 2253\".",
+    "price": 67.83,
+    "stock": 141
+  },
+  {
+    "id": "product_002263",
+    "title": "Audio Item 2263",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 2263\".",
+    "price": 217.8,
+    "stock": 134
+  },
+  {
+    "id": "product_002326",
+    "title": "Outdoor Accessory 2326",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 2326\".",
+    "price": 98.63,
+    "stock": 30
+  },
+  {
+    "id": "product_002333",
+    "title": "Office Organizer 2333",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 2333\".",
+    "price": 22.29,
+    "stock": 164
+  },
+  {
+    "id": "product_002357",
+    "title": "Feeding Set 2357",
+    "description": "Pet Supplies — synthetic demo listing \"Feeding Set 2357\".",
+    "price": 63.8,
+    "stock": 122
+  },
+  {
+    "id": "product_002394",
+    "title": "Bedding Set 2394",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 2394\".",
+    "price": 56.39,
+    "stock": 7
+  },
+  {
+    "id": "product_002421",
+    "title": "Maintenance Kit 2421",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 2421\".",
+    "price": 84.64,
+    "stock": 22
+  },
+  {
+    "id": "product_002458",
+    "title": "Decor Item 2458",
+    "description": "Furniture & Decor — synthetic demo listing \"Decor Item 2458\".",
+    "price": 134.57,
+    "stock": 106
+  },
+  {
+    "id": "product_002481",
+    "title": "Travel Item 2481",
+    "description": "Automotive — synthetic demo listing \"Travel Item 2481\".",
+    "price": 31.05,
+    "stock": 96
+  },
+  {
+    "id": "product_002500",
+    "title": "Feeding Item 2500",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 2500\".",
+    "price": 65.49,
+    "stock": 144
+  },
+  {
+    "id": "product_002504",
+    "title": "Audio Item 2504",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 2504\".",
+    "price": 88.29,
+    "stock": 148
+  },
+  {
+    "id": "product_002507",
+    "title": "Comfort Item 2507",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 2507\".",
+    "price": 48.02,
+    "stock": 145
+  },
+  {
+    "id": "product_002567",
+    "title": "Learning Guide 2567",
+    "description": "Books & Media — synthetic demo listing \"Learning Guide 2567\".",
+    "price": 26.7,
+    "stock": 115
+  },
+  {
+    "id": "product_002608",
+    "title": "Feeding Item 2608",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 2608\".",
+    "price": 48.8,
+    "stock": 85
+  },
+  {
+    "id": "product_002625",
+    "title": "Storage Unit 2625",
+    "description": "Furniture & Decor — synthetic demo listing \"Storage Unit 2625\".",
+    "price": 199.4,
+    "stock": 132
+  },
+  {
+    "id": "product_002676",
+    "title": "Charging Kit 2676",
+    "description": "Electronics & Accessories — synthetic demo listing \"Charging Kit 2676\".",
+    "price": 202.84,
+    "stock": 108
+  },
+  {
+    "id": "product_002696",
+    "title": "Home Textile 2696",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 2696\".",
+    "price": 48.51,
+    "stock": 102
+  },
+  {
+    "id": "product_002702",
+    "title": "Infant Care Item 2702",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 2702\".",
+    "price": 20.87,
+    "stock": 76
+  },
+  {
+    "id": "product_002715",
+    "title": "Pet Care Item 2715",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Care Item 2715\".",
+    "price": 21.64,
+    "stock": 4
+  },
+  {
+    "id": "product_002727",
+    "title": "Fitness Item 2727",
+    "description": "Sports & Outdoors — synthetic demo listing \"Fitness Item 2727\".",
+    "price": 115.68,
+    "stock": 9
+  },
+  {
+    "id": "product_002741",
+    "title": "Connectivity Kit 2741",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 2741\".",
+    "price": 101.69,
+    "stock": 93
+  },
+  {
+    "id": "product_002744",
+    "title": "Training Gear 2744",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 2744\".",
+    "price": 109.31,
+    "stock": 90
+  },
+  {
+    "id": "product_002755",
+    "title": "Keepsake Item 2755",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 2755\".",
+    "price": 124.71,
+    "stock": 104
+  },
+  {
+    "id": "product_002757",
+    "title": "Outdoor Accessory 2757",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 2757\".",
+    "price": 43.68,
+    "stock": 102
+  },
+  {
+    "id": "product_002786",
+    "title": "Training Gear 2786",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 2786\".",
+    "price": 79.93,
+    "stock": 148
+  },
+  {
+    "id": "product_002802",
+    "title": "Accent Furniture 2802",
+    "description": "Furniture & Decor — synthetic demo listing \"Accent Furniture 2802\".",
+    "price": 169.1,
+    "stock": 145
+  },
+  {
+    "id": "product_002805",
+    "title": "Storage Unit 2805",
+    "description": "Furniture & Decor — synthetic demo listing \"Storage Unit 2805\".",
+    "price": 256.2,
+    "stock": 144
+  },
+  {
+    "id": "product_002832",
+    "title": "Nursery Accessory 2832",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 2832\".",
+    "price": 67.56,
+    "stock": 58
+  },
+  {
+    "id": "product_002848",
+    "title": "Learning Toy 2848",
+    "description": "Toys & Games — synthetic demo listing \"Learning Toy 2848\".",
+    "price": 23.01,
+    "stock": 135
+  },
+  {
+    "id": "product_002898",
+    "title": "Pet Care Item 2898",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Care Item 2898\".",
+    "price": 37.39,
+    "stock": 58
+  },
+  {
+    "id": "product_002938",
+    "title": "Everyday Apparel 2938",
+    "description": "Fashion — synthetic demo listing \"Everyday Apparel 2938\".",
+    "price": 70.92,
+    "stock": 127
+  },
+  {
+    "id": "product_002956",
+    "title": "Nursery Accessory 2956",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 2956\".",
+    "price": 37.58,
+    "stock": 55
+  },
+  {
+    "id": "product_002961",
+    "title": "Comfort Item 2961",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 2961\".",
+    "price": 178.87,
+    "stock": 109
+  },
+  {
+    "id": "product_003000",
+    "title": "Daily Essential 3000",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 3000\".",
+    "price": 30.44,
+    "stock": 142
+  },
+  {
+    "id": "product_003075",
+    "title": "Family Game 3075",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 3075\".",
+    "price": 45.32,
+    "stock": 30
+  },
+  {
+    "id": "product_003076",
+    "title": "Office Organizer 3076",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 3076\".",
+    "price": 35.78,
+    "stock": 31
+  },
+  {
+    "id": "product_003095",
+    "title": "Audio Item 3095",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 3095\".",
+    "price": 148.45,
+    "stock": 108
+  },
+  {
+    "id": "product_003131",
+    "title": "Phone Item 3131",
+    "description": "Mobile & Telecom — synthetic demo listing \"Phone Item 3131\".",
+    "price": 163.95,
+    "stock": 165
+  },
+  {
+    "id": "product_003132",
+    "title": "Device Accessory 3132",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 3132\".",
+    "price": 196.59,
+    "stock": 168
+  },
+  {
+    "id": "product_003143",
+    "title": "Media Collection 3143",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 3143\".",
+    "price": 17.59,
+    "stock": 144
+  },
+  {
+    "id": "product_003161",
+    "title": "Writing Kit 3161",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 3161\".",
+    "price": 36.3,
+    "stock": 176
+  },
+  {
+    "id": "product_003195",
+    "title": "Timepiece 3195",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 3195\".",
+    "price": 181.84,
+    "stock": 43
+  },
+  {
+    "id": "product_003198",
+    "title": "Phone Item 3198",
+    "description": "Mobile & Telecom — synthetic demo listing \"Phone Item 3198\".",
+    "price": 145.25,
+    "stock": 32
+  },
+  {
+    "id": "product_003212",
+    "title": "Outdoor Kit 3212",
+    "description": "Sports & Outdoors — synthetic demo listing \"Outdoor Kit 3212\".",
+    "price": 74.43,
+    "stock": 15
+  },
+  {
+    "id": "product_003230",
+    "title": "Desk Set 3230",
+    "description": "Office Supplies — synthetic demo listing \"Desk Set 3230\".",
+    "price": 12.34,
+    "stock": 71
+  },
+  {
+    "id": "product_003281",
+    "title": "Family Game 3281",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 3281\".",
+    "price": 42.63,
+    "stock": 43
+  },
+  {
+    "id": "product_003302",
+    "title": "Outdoor Kit 3302",
+    "description": "Sports & Outdoors — synthetic demo listing \"Outdoor Kit 3302\".",
+    "price": 92.6,
+    "stock": 149
+  },
+  {
+    "id": "product_003317",
+    "title": "Phone Item 3317",
+    "description": "Mobile & Telecom — synthetic demo listing \"Phone Item 3317\".",
+    "price": 234.59,
+    "stock": 67
+  },
+  {
+    "id": "product_003350",
+    "title": "Charging Kit 3350",
+    "description": "Electronics & Accessories — synthetic demo listing \"Charging Kit 3350\".",
+    "price": 64.88,
+    "stock": 126
+  },
+  {
+    "id": "product_003384",
+    "title": "Planting Set 3384",
+    "description": "Garden & Outdoor — synthetic demo listing \"Planting Set 3384\".",
+    "price": 59.5,
+    "stock": 171
+  },
+  {
+    "id": "product_003398",
+    "title": "Gift Set 3398",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 3398\".",
+    "price": 94.85,
+    "stock": 130
+  },
+  {
+    "id": "product_003404",
+    "title": "Connectivity Kit 3404",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 3404\".",
+    "price": 219.43,
+    "stock": 102
+  },
+  {
+    "id": "product_003430",
+    "title": "Writing Kit 3430",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 3430\".",
+    "price": 17.33,
+    "stock": 45
+  },
+  {
+    "id": "product_003434",
+    "title": "Fashion Accessory 3434",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 3434\".",
+    "price": 16.8,
+    "stock": 49
+  },
+  {
+    "id": "product_003447",
+    "title": "Media Collection 3447",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 3447\".",
+    "price": 10.22,
+    "stock": 91
+  },
+  {
+    "id": "product_003456",
+    "title": "Device Accessory 3456",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 3456\".",
+    "price": 190.02,
+    "stock": 109
+  },
+  {
+    "id": "product_003462",
+    "title": "Infant Care Item 3462",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 3462\".",
+    "price": 46.85,
+    "stock": 26
+  },
+  {
+    "id": "product_003532",
+    "title": "Travel Item 3532",
+    "description": "Automotive — synthetic demo listing \"Travel Item 3532\".",
+    "price": 88.02,
+    "stock": 72
+  },
+  {
+    "id": "product_003574",
+    "title": "Travel Item 3574",
+    "description": "Automotive — synthetic demo listing \"Travel Item 3574\".",
+    "price": 96.99,
+    "stock": 10
+  },
+  {
+    "id": "product_003576",
+    "title": "Garden Tool 3576",
+    "description": "Garden & Outdoor — synthetic demo listing \"Garden Tool 3576\".",
+    "price": 154.98,
+    "stock": 12
+  },
+  {
+    "id": "product_003627",
+    "title": "Desk Set 3627",
+    "description": "Office Supplies — synthetic demo listing \"Desk Set 3627\".",
+    "price": 32.43,
+    "stock": 35
+  },
+  {
+    "id": "product_003670",
+    "title": "Nursery Accessory 3670",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 3670\".",
+    "price": 100.48,
+    "stock": 79
+  },
+  {
+    "id": "product_003689",
+    "title": "Comfort Item 3689",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 3689\".",
+    "price": 141.26,
+    "stock": 115
+  },
+  {
+    "id": "product_003703",
+    "title": "Media Collection 3703",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 3703\".",
+    "price": 22.65,
+    "stock": 86
+  },
+  {
+    "id": "product_003754",
+    "title": "Outdoor Kit 3754",
+    "description": "Sports & Outdoors — synthetic demo listing \"Outdoor Kit 3754\".",
+    "price": 92.01,
+    "stock": 74
+  },
+  {
+    "id": "product_003760",
+    "title": "Everyday Apparel 3760",
+    "description": "Fashion — synthetic demo listing \"Everyday Apparel 3760\".",
+    "price": 12.83,
+    "stock": 17
+  },
+  {
+    "id": "product_003796",
+    "title": "Seasonal Wear 3796",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 3796\".",
+    "price": 40.72,
+    "stock": 176
+  },
+  {
+    "id": "product_003809",
+    "title": "Seasonal Wear 3809",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 3809\".",
+    "price": 44.67,
+    "stock": 21
+  },
+  {
+    "id": "product_003815",
+    "title": "Feeding Item 3815",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 3815\".",
+    "price": 59.45,
+    "stock": 72
+  },
+  {
+    "id": "product_003860",
+    "title": "Training Gear 3860",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 3860\".",
+    "price": 46.43,
+    "stock": 156
+  },
+  {
+    "id": "product_003896",
+    "title": "Learning Guide 3896",
+    "description": "Books & Media — synthetic demo listing \"Learning Guide 3896\".",
+    "price": 29.38,
+    "stock": 105
+  },
+  {
+    "id": "product_003908",
+    "title": "Device Accessory 3908",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 3908\".",
+    "price": 125.6,
+    "stock": 25
+  },
+  {
+    "id": "product_003945",
+    "title": "Vehicle Accessory 3945",
+    "description": "Automotive — synthetic demo listing \"Vehicle Accessory 3945\".",
+    "price": 152.84,
+    "stock": 10
+  },
+  {
+    "id": "product_003963",
+    "title": "Infant Care Item 3963",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 3963\".",
+    "price": 94.27,
+    "stock": 154
+  },
+  {
+    "id": "product_003979",
+    "title": "Pet Activity Item 3979",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 3979\".",
+    "price": 21.87,
+    "stock": 49
+  },
+  {
+    "id": "product_003983",
+    "title": "Pet Activity Item 3983",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 3983\".",
+    "price": 48.23,
+    "stock": 72
+  },
+  {
+    "id": "product_004047",
+    "title": "Family Game 4047",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 4047\".",
+    "price": 45.22,
+    "stock": 36
+  },
+  {
+    "id": "product_004051",
+    "title": "Comfort Item 4051",
+    "description": "Home & Bedding — synthetic demo listing \"Comfort Item 4051\".",
+    "price": 83.72,
+    "stock": 31
+  },
+  {
+    "id": "product_004091",
+    "title": "Nursery Accessory 4091",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 4091\".",
+    "price": 40.72,
+    "stock": 11
+  },
+  {
+    "id": "product_004100",
+    "title": "Household Tool 4100",
+    "description": "Home Goods — synthetic demo listing \"Household Tool 4100\".",
+    "price": 38.45,
+    "stock": 38
+  },
+  {
+    "id": "product_004116",
+    "title": "Pet Activity Item 4116",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 4116\".",
+    "price": 37.73,
+    "stock": 93
+  },
+  {
+    "id": "product_004150",
+    "title": "Connectivity Kit 4150",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 4150\".",
+    "price": 184.87,
+    "stock": 87
+  },
+  {
+    "id": "product_004176",
+    "title": "Mobile Accessory 4176",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 4176\".",
+    "price": 49.91,
+    "stock": 35
+  },
+  {
+    "id": "product_004276",
+    "title": "Learning Toy 4276",
+    "description": "Toys & Games — synthetic demo listing \"Learning Toy 4276\".",
+    "price": 78.64,
+    "stock": 66
+  },
+  {
+    "id": "product_004292",
+    "title": "Keepsake Item 4292",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 4292\".",
+    "price": 119.2,
+    "stock": 60
+  },
+  {
+    "id": "product_004296",
+    "title": "Family Game 4296",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 4296\".",
+    "price": 25.7,
+    "stock": 160
+  },
+  {
+    "id": "product_004357",
+    "title": "Fitness Item 4357",
+    "description": "Sports & Outdoors — synthetic demo listing \"Fitness Item 4357\".",
+    "price": 87.34,
+    "stock": 176
+  },
+  {
+    "id": "product_004400",
+    "title": "Nursery Accessory 4400",
+    "description": "Baby Products — synthetic demo listing \"Nursery Accessory 4400\".",
+    "price": 64.94,
+    "stock": 173
+  },
+  {
+    "id": "product_004401",
+    "title": "Bedding Set 4401",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 4401\".",
+    "price": 183.13,
+    "stock": 174
+  },
+  {
+    "id": "product_004443",
+    "title": "Keepsake Item 4443",
+    "description": "Watches & Gifts — synthetic demo listing \"Keepsake Item 4443\".",
+    "price": 41.88,
+    "stock": 88
+  },
+  {
+    "id": "product_004450",
+    "title": "Infant Care Item 4450",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 4450\".",
+    "price": 103.25,
+    "stock": 56
+  },
+  {
+    "id": "product_004460",
+    "title": "Seasonal Wear 4460",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 4460\".",
+    "price": 54.16,
+    "stock": 47
+  },
+  {
+    "id": "product_004465",
+    "title": "Maintenance Kit 4465",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 4465\".",
+    "price": 140.94,
+    "stock": 52
+  },
+  {
+    "id": "product_004466",
+    "title": "Outdoor Kit 4466",
+    "description": "Sports & Outdoors — synthetic demo listing \"Outdoor Kit 4466\".",
+    "price": 43.74,
+    "stock": 49
+  },
+  {
+    "id": "product_004473",
+    "title": "Maintenance Kit 4473",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 4473\".",
+    "price": 160.6,
+    "stock": 19
+  },
+  {
+    "id": "product_004484",
+    "title": "Training Gear 4484",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 4484\".",
+    "price": 39.4,
+    "stock": 77
+  },
+  {
+    "id": "product_004500",
+    "title": "Media Collection 4500",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 4500\".",
+    "price": 20.56,
+    "stock": 2
+  },
+  {
+    "id": "product_004527",
+    "title": "Kitchen Item 4527",
+    "description": "Home Goods — synthetic demo listing \"Kitchen Item 4527\".",
+    "price": 55.49,
+    "stock": 149
+  },
+  {
+    "id": "product_004534",
+    "title": "Accent Furniture 4534",
+    "description": "Furniture & Decor — synthetic demo listing \"Accent Furniture 4534\".",
+    "price": 479.12,
+    "stock": 1
+  },
+  {
+    "id": "product_004557",
+    "title": "Outdoor Accessory 4557",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 4557\".",
+    "price": 63.47,
+    "stock": 114
+  },
+  {
+    "id": "product_004570",
+    "title": "Charging Kit 4570",
+    "description": "Electronics & Accessories — synthetic demo listing \"Charging Kit 4570\".",
+    "price": 42.38,
+    "stock": 157
+  },
+  {
+    "id": "product_004647",
+    "title": "Connectivity Kit 4647",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 4647\".",
+    "price": 69.51,
+    "stock": 6
+  },
+  {
+    "id": "product_004654",
+    "title": "Media Collection 4654",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 4654\".",
+    "price": 48.98,
+    "stock": 174
+  },
+  {
+    "id": "product_004694",
+    "title": "Infant Care Item 4694",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 4694\".",
+    "price": 69.86,
+    "stock": 50
+  },
+  {
+    "id": "product_004712",
+    "title": "Audio Item 4712",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 4712\".",
+    "price": 85.09,
+    "stock": 103
+  },
+  {
+    "id": "product_004730",
+    "title": "Infant Care Item 4730",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 4730\".",
+    "price": 41.25,
+    "stock": 11
+  },
+  {
+    "id": "product_004741",
+    "title": "Daily Essential 4741",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 4741\".",
+    "price": 20.85,
+    "stock": 91
+  },
+  {
+    "id": "product_004746",
+    "title": "Writing Kit 4746",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 4746\".",
+    "price": 26.57,
+    "stock": 94
+  },
+  {
+    "id": "product_004779",
+    "title": "Reference Book 4779",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 4779\".",
+    "price": 20.91,
+    "stock": 8
+  },
+  {
+    "id": "product_004790",
+    "title": "Organization Set 4790",
+    "description": "Home Goods — synthetic demo listing \"Organization Set 4790\".",
+    "price": 65.9,
+    "stock": 13
+  },
+  {
+    "id": "product_004889",
+    "title": "Mobile Accessory 4889",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 4889\".",
+    "price": 81.49,
+    "stock": 86
+  },
+  {
+    "id": "product_004892",
+    "title": "Writing Kit 4892",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 4892\".",
+    "price": 25.13,
+    "stock": 10
+  },
+  {
+    "id": "product_004957",
+    "title": "Media Collection 4957",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 4957\".",
+    "price": 22.82,
+    "stock": 42
+  },
+  {
+    "id": "product_004959",
+    "title": "Everyday Apparel 4959",
+    "description": "Fashion — synthetic demo listing \"Everyday Apparel 4959\".",
+    "price": 55.66,
+    "stock": 136
+  },
+  {
+    "id": "product_004971",
+    "title": "Pet Care Item 4971",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Care Item 4971\".",
+    "price": 20.2,
+    "stock": 78
+  },
+  {
+    "id": "product_004982",
+    "title": "Learning Toy 4982",
+    "description": "Toys & Games — synthetic demo listing \"Learning Toy 4982\".",
+    "price": 31.17,
+    "stock": 52
+  },
+  {
+    "id": "product_004984",
+    "title": "Decor Item 4984",
+    "description": "Furniture & Decor — synthetic demo listing \"Decor Item 4984\".",
+    "price": 254.1,
+    "stock": 54
+  },
+  {
+    "id": "product_004986",
+    "title": "Wellness Item 4986",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 4986\".",
+    "price": 28.12,
+    "stock": 56
+  },
+  {
+    "id": "product_005007",
+    "title": "Gift Set 5007",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 5007\".",
+    "price": 78.97,
+    "stock": 25
+  },
+  {
+    "id": "product_005055",
+    "title": "Travel Item 5055",
+    "description": "Automotive — synthetic demo listing \"Travel Item 5055\".",
+    "price": 180.92,
+    "stock": 138
+  },
+  {
+    "id": "product_005071",
+    "title": "Seasonal Wear 5071",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 5071\".",
+    "price": 32.12,
+    "stock": 176
+  },
+  {
+    "id": "product_005075",
+    "title": "Outdoor Accessory 5075",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 5075\".",
+    "price": 80.93,
+    "stock": 172
+  },
+  {
+    "id": "product_005085",
+    "title": "Seasonal Wear 5085",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 5085\".",
+    "price": 67.79,
+    "stock": 43
+  },
+  {
+    "id": "product_005155",
+    "title": "Everyday Apparel 5155",
+    "description": "Fashion — synthetic demo listing \"Everyday Apparel 5155\".",
+    "price": 125.62,
+    "stock": 177
+  },
+  {
+    "id": "product_005158",
+    "title": "Learning Toy 5158",
+    "description": "Toys & Games — synthetic demo listing \"Learning Toy 5158\".",
+    "price": 28.4,
+    "stock": 166
+  },
+  {
+    "id": "product_005167",
+    "title": "Outdoor Accessory 5167",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 5167\".",
+    "price": 56.94,
+    "stock": 144
+  },
+  {
+    "id": "product_005195",
+    "title": "Media Collection 5195",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 5195\".",
+    "price": 25.98,
+    "stock": 121
+  },
+  {
+    "id": "product_005200",
+    "title": "Wellness Item 5200",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 5200\".",
+    "price": 18.31,
+    "stock": 134
+  },
+  {
+    "id": "product_005282",
+    "title": "Planting Set 5282",
+    "description": "Garden & Outdoor — synthetic demo listing \"Planting Set 5282\".",
+    "price": 98.42,
+    "stock": 24
+  },
+  {
+    "id": "product_005326",
+    "title": "Activity Set 5326",
+    "description": "Toys & Games — synthetic demo listing \"Activity Set 5326\".",
+    "price": 46.36,
+    "stock": 161
+  },
+  {
+    "id": "product_005356",
+    "title": "Storage Unit 5356",
+    "description": "Furniture & Decor — synthetic demo listing \"Storage Unit 5356\".",
+    "price": 94.15,
+    "stock": 70
+  },
+  {
+    "id": "product_005383",
+    "title": "Accent Furniture 5383",
+    "description": "Furniture & Decor — synthetic demo listing \"Accent Furniture 5383\".",
+    "price": 86.51,
+    "stock": 164
+  },
+  {
+    "id": "product_005419",
+    "title": "Reference Book 5419",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 5419\".",
+    "price": 37.41,
+    "stock": 178
+  },
+  {
+    "id": "product_005428",
+    "title": "Desk Set 5428",
+    "description": "Office Supplies — synthetic demo listing \"Desk Set 5428\".",
+    "price": 20.7,
+    "stock": 78
+  },
+  {
+    "id": "product_005447",
+    "title": "Outdoor Accessory 5447",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 5447\".",
+    "price": 124.25,
+    "stock": 161
+  },
+  {
+    "id": "product_005456",
+    "title": "Learning Guide 5456",
+    "description": "Books & Media — synthetic demo listing \"Learning Guide 5456\".",
+    "price": 22.38,
+    "stock": 67
+  },
+  {
+    "id": "product_005472",
+    "title": "Decor Item 5472",
+    "description": "Furniture & Decor — synthetic demo listing \"Decor Item 5472\".",
+    "price": 350.59,
+    "stock": 41
+  },
+  {
+    "id": "product_005500",
+    "title": "Learning Guide 5500",
+    "description": "Books & Media — synthetic demo listing \"Learning Guide 5500\".",
+    "price": 23.88,
+    "stock": 159
+  },
+  {
+    "id": "product_005501",
+    "title": "Daily Essential 5501",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 5501\".",
+    "price": 20.83,
+    "stock": 160
+  },
+  {
+    "id": "product_005515",
+    "title": "Gift Set 5515",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 5515\".",
+    "price": 161.64,
+    "stock": 101
+  },
+  {
+    "id": "product_005526",
+    "title": "Storage Unit 5526",
+    "description": "Furniture & Decor — synthetic demo listing \"Storage Unit 5526\".",
+    "price": 127.94,
+    "stock": 67
+  },
+  {
+    "id": "product_005527",
+    "title": "Media Collection 5527",
+    "description": "Books & Media — synthetic demo listing \"Media Collection 5527\".",
+    "price": 35.17,
+    "stock": 68
+  },
+  {
+    "id": "product_005534",
+    "title": "Family Game 5534",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 5534\".",
+    "price": 18.35,
+    "stock": 60
+  },
+  {
+    "id": "product_005585",
+    "title": "Writing Kit 5585",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 5585\".",
+    "price": 28.47,
+    "stock": 12
+  },
+  {
+    "id": "product_005608",
+    "title": "Writing Kit 5608",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 5608\".",
+    "price": 86.75,
+    "stock": 154
+  },
+  {
+    "id": "product_005644",
+    "title": "Seasonal Wear 5644",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 5644\".",
+    "price": 19.47,
+    "stock": 130
+  },
+  {
+    "id": "product_005667",
+    "title": "Organization Set 5667",
+    "description": "Home Goods — synthetic demo listing \"Organization Set 5667\".",
+    "price": 90.29,
+    "stock": 61
+  },
+  {
+    "id": "product_005687",
+    "title": "Training Gear 5687",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 5687\".",
+    "price": 50.84,
+    "stock": 31
+  },
+  {
+    "id": "product_005704",
+    "title": "Garden Tool 5704",
+    "description": "Garden & Outdoor — synthetic demo listing \"Garden Tool 5704\".",
+    "price": 141.16,
+    "stock": 109
+  },
+  {
+    "id": "product_005812",
+    "title": "Pet Care Item 5812",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Care Item 5812\".",
+    "price": 32.02,
+    "stock": 31
+  },
+  {
+    "id": "product_005828",
+    "title": "Bedding Set 5828",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 5828\".",
+    "price": 22.24,
+    "stock": 42
+  },
+  {
+    "id": "product_005835",
+    "title": "Maintenance Kit 5835",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 5835\".",
+    "price": 133.33,
+    "stock": 68
+  },
+  {
+    "id": "product_005931",
+    "title": "Organization Set 5931",
+    "description": "Home Goods — synthetic demo listing \"Organization Set 5931\".",
+    "price": 31.74,
+    "stock": 179
+  },
+  {
+    "id": "product_006009",
+    "title": "Feeding Set 6009",
+    "description": "Pet Supplies — synthetic demo listing \"Feeding Set 6009\".",
+    "price": 45.68,
+    "stock": 124
+  },
+  {
+    "id": "product_006026",
+    "title": "Household Tool 6026",
+    "description": "Home Goods — synthetic demo listing \"Household Tool 6026\".",
+    "price": 67.82,
+    "stock": 63
+  },
+  {
+    "id": "product_006039",
+    "title": "Household Tool 6039",
+    "description": "Home Goods — synthetic demo listing \"Household Tool 6039\".",
+    "price": 47.89,
+    "stock": 147
+  },
+  {
+    "id": "product_006052",
+    "title": "Device Accessory 6052",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 6052\".",
+    "price": 99.19,
+    "stock": 68
+  },
+  {
+    "id": "product_006061",
+    "title": "Device Accessory 6061",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 6061\".",
+    "price": 121.98,
+    "stock": 62
+  },
+  {
+    "id": "product_006116",
+    "title": "Feeding Item 6116",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 6116\".",
+    "price": 62.25,
+    "stock": 11
+  },
+  {
+    "id": "product_006168",
+    "title": "Fitness Item 6168",
+    "description": "Sports & Outdoors — synthetic demo listing \"Fitness Item 6168\".",
+    "price": 97.11,
+    "stock": 98
+  },
+  {
+    "id": "product_006188",
+    "title": "Timepiece 6188",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 6188\".",
+    "price": 60.82,
+    "stock": 20
+  },
+  {
+    "id": "product_006224",
+    "title": "Maintenance Kit 6224",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 6224\".",
+    "price": 87.34,
+    "stock": 167
+  },
+  {
+    "id": "product_006263",
+    "title": "Connectivity Kit 6263",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 6263\".",
+    "price": 154.99,
+    "stock": 166
+  },
+  {
+    "id": "product_006303",
+    "title": "Everyday Apparel 6303",
+    "description": "Fashion — synthetic demo listing \"Everyday Apparel 6303\".",
+    "price": 49.09,
+    "stock": 111
+  },
+  {
+    "id": "product_006404",
+    "title": "Connectivity Kit 6404",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 6404\".",
+    "price": 122.12,
+    "stock": 23
+  },
+  {
+    "id": "product_006440",
+    "title": "Gift Set 6440",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 6440\".",
+    "price": 113.64,
+    "stock": 47
+  },
+  {
+    "id": "product_006467",
+    "title": "Fashion Accessory 6467",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 6467\".",
+    "price": 70.11,
+    "stock": 92
+  },
+  {
+    "id": "product_006479",
+    "title": "Feeding Item 6479",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 6479\".",
+    "price": 102.41,
+    "stock": 63
+  },
+  {
+    "id": "product_006510",
+    "title": "Maintenance Kit 6510",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 6510\".",
+    "price": 89.66,
+    "stock": 173
+  },
+  {
+    "id": "product_006568",
+    "title": "Daily Essential 6568",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 6568\".",
+    "price": 28.1,
+    "stock": 138
+  },
+  {
+    "id": "product_006575",
+    "title": "Decor Item 6575",
+    "description": "Furniture & Decor — synthetic demo listing \"Decor Item 6575\".",
+    "price": 381.34,
+    "stock": 52
+  },
+  {
+    "id": "product_006583",
+    "title": "Phone Item 6583",
+    "description": "Mobile & Telecom — synthetic demo listing \"Phone Item 6583\".",
+    "price": 47.35,
+    "stock": 73
+  },
+  {
+    "id": "product_006587",
+    "title": "Infant Care Item 6587",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 6587\".",
+    "price": 60.38,
+    "stock": 69
+  },
+  {
+    "id": "product_006596",
+    "title": "Pet Activity Item 6596",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 6596\".",
+    "price": 27.2,
+    "stock": 103
+  },
+  {
+    "id": "product_006617",
+    "title": "Connectivity Kit 6617",
+    "description": "Mobile & Telecom — synthetic demo listing \"Connectivity Kit 6617\".",
+    "price": 259.03,
+    "stock": 101
+  },
+  {
+    "id": "product_006625",
+    "title": "Bedding Set 6625",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 6625\".",
+    "price": 63.89,
+    "stock": 96
+  },
+  {
+    "id": "product_006635",
+    "title": "Maintenance Kit 6635",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 6635\".",
+    "price": 54.55,
+    "stock": 169
+  },
+  {
+    "id": "product_006665",
+    "title": "Bedding Set 6665",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 6665\".",
+    "price": 118.32,
+    "stock": 16
+  },
+  {
+    "id": "product_006677",
+    "title": "Audio Item 6677",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 6677\".",
+    "price": 210.63,
+    "stock": 3
+  },
+  {
+    "id": "product_006696",
+    "title": "Decor Item 6696",
+    "description": "Furniture & Decor — synthetic demo listing \"Decor Item 6696\".",
+    "price": 101.83,
+    "stock": 14
+  },
+  {
+    "id": "product_006701",
+    "title": "Feeding Set 6701",
+    "description": "Pet Supplies — synthetic demo listing \"Feeding Set 6701\".",
+    "price": 22.64,
+    "stock": 45
+  },
+  {
+    "id": "product_006709",
+    "title": "Learning Toy 6709",
+    "description": "Toys & Games — synthetic demo listing \"Learning Toy 6709\".",
+    "price": 106.91,
+    "stock": 37
+  },
+  {
+    "id": "product_006765",
+    "title": "Mobile Accessory 6765",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 6765\".",
+    "price": 207.22,
+    "stock": 167
+  },
+  {
+    "id": "product_006793",
+    "title": "Device Accessory 6793",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 6793\".",
+    "price": 205.89,
+    "stock": 6
+  },
+  {
+    "id": "product_006829",
+    "title": "Pet Activity Item 6829",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 6829\".",
+    "price": 42.68,
+    "stock": 118
+  },
+  {
+    "id": "product_006864",
+    "title": "Accent Furniture 6864",
+    "description": "Furniture & Decor — synthetic demo listing \"Accent Furniture 6864\".",
+    "price": 69.96,
+    "stock": 13
+  },
+  {
+    "id": "product_006869",
+    "title": "Household Tool 6869",
+    "description": "Home Goods — synthetic demo listing \"Household Tool 6869\".",
+    "price": 25.48,
+    "stock": 10
+  },
+  {
+    "id": "product_006891",
+    "title": "Household Tool 6891",
+    "description": "Home Goods — synthetic demo listing \"Household Tool 6891\".",
+    "price": 25.6,
+    "stock": 101
+  },
+  {
+    "id": "product_006895",
+    "title": "Activity Set 6895",
+    "description": "Toys & Games — synthetic demo listing \"Activity Set 6895\".",
+    "price": 52.12,
+    "stock": 97
+  },
+  {
+    "id": "product_006917",
+    "title": "Family Game 6917",
+    "description": "Toys & Games — synthetic demo listing \"Family Game 6917\".",
+    "price": 46.56,
+    "stock": 112
+  },
+  {
+    "id": "product_007008",
+    "title": "Training Gear 7008",
+    "description": "Sports & Outdoors — synthetic demo listing \"Training Gear 7008\".",
+    "price": 101.13,
+    "stock": 158
+  },
+  {
+    "id": "product_007037",
+    "title": "Bedding Set 7037",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 7037\".",
+    "price": 58.99,
+    "stock": 60
+  },
+  {
+    "id": "product_007043",
+    "title": "Pet Care Item 7043",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Care Item 7043\".",
+    "price": 20.36,
+    "stock": 171
+  },
+  {
+    "id": "product_007060",
+    "title": "Audio Item 7060",
+    "description": "Electronics & Accessories — synthetic demo listing \"Audio Item 7060\".",
+    "price": 60.05,
+    "stock": 112
+  },
+  {
+    "id": "product_007067",
+    "title": "Home Textile 7067",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 7067\".",
+    "price": 95.05,
+    "stock": 105
+  },
+  {
+    "id": "product_007142",
+    "title": "Reference Book 7142",
+    "description": "Books & Media — synthetic demo listing \"Reference Book 7142\".",
+    "price": 24.54,
+    "stock": 99
+  },
+  {
+    "id": "product_007159",
+    "title": "Home Textile 7159",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 7159\".",
+    "price": 93.51,
+    "stock": 59
+  },
+  {
+    "id": "product_007161",
+    "title": "Infant Care Item 7161",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 7161\".",
+    "price": 31.93,
+    "stock": 156
+  },
+  {
+    "id": "product_007165",
+    "title": "Daily Essential 7165",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 7165\".",
+    "price": 12.93,
+    "stock": 160
+  },
+  {
+    "id": "product_007167",
+    "title": "Timepiece 7167",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 7167\".",
+    "price": 81.46,
+    "stock": 158
+  },
+  {
+    "id": "product_007181",
+    "title": "Outdoor Accessory 7181",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 7181\".",
+    "price": 82.65,
+    "stock": 170
+  },
+  {
+    "id": "product_007194",
+    "title": "Pet Activity Item 7194",
+    "description": "Pet Supplies — synthetic demo listing \"Pet Activity Item 7194\".",
+    "price": 62.91,
+    "stock": 136
+  },
+  {
+    "id": "product_007223",
+    "title": "Bedding Set 7223",
+    "description": "Home & Bedding — synthetic demo listing \"Bedding Set 7223\".",
+    "price": 118.93,
+    "stock": 143
+  },
+  {
+    "id": "product_007232",
+    "title": "Organization Set 7232",
+    "description": "Home Goods — synthetic demo listing \"Organization Set 7232\".",
+    "price": 87.13,
+    "stock": 169
+  },
+  {
+    "id": "product_007236",
+    "title": "Device Accessory 7236",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 7236\".",
+    "price": 174,
+    "stock": 165
+  },
+  {
+    "id": "product_007254",
+    "title": "Storage Unit 7254",
+    "description": "Furniture & Decor — synthetic demo listing \"Storage Unit 7254\".",
+    "price": 106.19,
+    "stock": 29
+  },
+  {
+    "id": "product_007258",
+    "title": "Planting Set 7258",
+    "description": "Garden & Outdoor — synthetic demo listing \"Planting Set 7258\".",
+    "price": 134.58,
+    "stock": 33
+  },
+  {
+    "id": "product_007265",
+    "title": "Fitness Item 7265",
+    "description": "Sports & Outdoors — synthetic demo listing \"Fitness Item 7265\".",
+    "price": 58.02,
+    "stock": 81
+  },
+  {
+    "id": "product_007267",
+    "title": "Mobile Accessory 7267",
+    "description": "Mobile & Telecom — synthetic demo listing \"Mobile Accessory 7267\".",
+    "price": 107.54,
+    "stock": 83
+  },
+  {
+    "id": "product_007282",
+    "title": "Vehicle Accessory 7282",
+    "description": "Automotive — synthetic demo listing \"Vehicle Accessory 7282\".",
+    "price": 112.15,
+    "stock": 14
+  },
+  {
+    "id": "product_007309",
+    "title": "Feeding Item 7309",
+    "description": "Baby Products — synthetic demo listing \"Feeding Item 7309\".",
+    "price": 44.99,
+    "stock": 28
+  },
+  {
+    "id": "product_007320",
+    "title": "Fashion Accessory 7320",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 7320\".",
+    "price": 52.61,
+    "stock": 141
+  },
+  {
+    "id": "product_007321",
+    "title": "Wellness Item 7321",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 7321\".",
+    "price": 17.68,
+    "stock": 142
+  },
+  {
+    "id": "product_007361",
+    "title": "Home Textile 7361",
+    "description": "Home & Bedding — synthetic demo listing \"Home Textile 7361\".",
+    "price": 63.62,
+    "stock": 54
+  },
+  {
+    "id": "product_007420",
+    "title": "Infant Care Item 7420",
+    "description": "Baby Products — synthetic demo listing \"Infant Care Item 7420\".",
+    "price": 113.5,
+    "stock": 120
+  },
+  {
+    "id": "product_007470",
+    "title": "Vehicle Accessory 7470",
+    "description": "Automotive — synthetic demo listing \"Vehicle Accessory 7470\".",
+    "price": 81.63,
+    "stock": 61
+  },
+  {
+    "id": "product_007472",
+    "title": "Activity Set 7472",
+    "description": "Toys & Games — synthetic demo listing \"Activity Set 7472\".",
+    "price": 40.16,
+    "stock": 63
+  },
+  {
+    "id": "product_007499",
+    "title": "Charging Kit 7499",
+    "description": "Electronics & Accessories — synthetic demo listing \"Charging Kit 7499\".",
+    "price": 273.66,
+    "stock": 36
+  },
+  {
+    "id": "product_007542",
+    "title": "Charging Kit 7542",
+    "description": "Electronics & Accessories — synthetic demo listing \"Charging Kit 7542\".",
+    "price": 102.23,
+    "stock": 51
+  },
+  {
+    "id": "product_007563",
+    "title": "Wellness Item 7563",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 7563\".",
+    "price": 22.68,
+    "stock": 106
+  },
+  {
+    "id": "product_007577",
+    "title": "Device Accessory 7577",
+    "description": "Electronics & Accessories — synthetic demo listing \"Device Accessory 7577\".",
+    "price": 155.57,
+    "stock": 83
+  },
+  {
+    "id": "product_007581",
+    "title": "Writing Kit 7581",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 7581\".",
+    "price": 29.22,
+    "stock": 106
+  },
+  {
+    "id": "product_007589",
+    "title": "Wellness Item 7589",
+    "description": "Health & Beauty — synthetic demo listing \"Wellness Item 7589\".",
+    "price": 43.31,
+    "stock": 98
+  },
+  {
+    "id": "product_007598",
+    "title": "Daily Essential 7598",
+    "description": "Health & Beauty — synthetic demo listing \"Daily Essential 7598\".",
+    "price": 41,
+    "stock": 68
+  },
+  {
+    "id": "product_007599",
+    "title": "Kitchen Item 7599",
+    "description": "Home Goods — synthetic demo listing \"Kitchen Item 7599\".",
+    "price": 60.11,
+    "stock": 67
+  },
+  {
+    "id": "product_007621",
+    "title": "Care Set 7621",
+    "description": "Health & Beauty — synthetic demo listing \"Care Set 7621\".",
+    "price": 17.5,
+    "stock": 153
+  },
+  {
+    "id": "product_007631",
+    "title": "Desk Set 7631",
+    "description": "Office Supplies — synthetic demo listing \"Desk Set 7631\".",
+    "price": 19.71,
+    "stock": 160
+  },
+  {
+    "id": "product_007650",
+    "title": "Timepiece 7650",
+    "description": "Watches & Gifts — synthetic demo listing \"Timepiece 7650\".",
+    "price": 141.38,
+    "stock": 105
+  },
+  {
+    "id": "product_007653",
+    "title": "Maintenance Kit 7653",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 7653\".",
+    "price": 104.5,
+    "stock": 108
+  },
+  {
+    "id": "product_007679",
+    "title": "Planting Set 7679",
+    "description": "Garden & Outdoor — synthetic demo listing \"Planting Set 7679\".",
+    "price": 73.73,
+    "stock": 60
+  },
+  {
+    "id": "product_007725",
+    "title": "Maintenance Kit 7725",
+    "description": "Automotive — synthetic demo listing \"Maintenance Kit 7725\".",
+    "price": 84.39,
+    "stock": 158
+  },
+  {
+    "id": "product_007732",
+    "title": "Outdoor Accessory 7732",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 7732\".",
+    "price": 83.02,
+    "stock": 122
+  },
+  {
+    "id": "product_007734",
+    "title": "Office Organizer 7734",
+    "description": "Office Supplies — synthetic demo listing \"Office Organizer 7734\".",
+    "price": 26.92,
+    "stock": 128
+  },
+  {
+    "id": "product_007767",
+    "title": "Outdoor Accessory 7767",
+    "description": "Garden & Outdoor — synthetic demo listing \"Outdoor Accessory 7767\".",
+    "price": 121.87,
+    "stock": 132
+  },
+  {
+    "id": "product_007781",
+    "title": "Fitness Item 7781",
+    "description": "Sports & Outdoors — synthetic demo listing \"Fitness Item 7781\".",
+    "price": 96.46,
+    "stock": 76
+  },
+  {
+    "id": "product_007788",
+    "title": "Fashion Accessory 7788",
+    "description": "Fashion — synthetic demo listing \"Fashion Accessory 7788\".",
+    "price": 58.89,
+    "stock": 67
+  },
+  {
+    "id": "product_007792",
+    "title": "Gift Set 7792",
+    "description": "Watches & Gifts — synthetic demo listing \"Gift Set 7792\".",
+    "price": 64.13,
+    "stock": 72
+  },
+  {
+    "id": "product_007802",
+    "title": "Writing Kit 7802",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 7802\".",
+    "price": 29.23,
+    "stock": 64
+  },
+  {
+    "id": "product_007852",
+    "title": "Care Set 7852",
+    "description": "Health & Beauty — synthetic demo listing \"Care Set 7852\".",
+    "price": 24.76,
+    "stock": 101
+  },
+  {
+    "id": "product_007942",
+    "title": "Writing Kit 7942",
+    "description": "Office Supplies — synthetic demo listing \"Writing Kit 7942\".",
+    "price": 38.71,
+    "stock": 151
+  },
+  {
+    "id": "product_007977",
+    "title": "Seasonal Wear 7977",
+    "description": "Fashion — synthetic demo listing \"Seasonal Wear 7977\".",
+    "price": 135.7,
+    "stock": 27
+  },
+  {
+    "id": "product_007982",
+    "title": "Fitness Item 7982",
+    "description": "Sports & Outdoors — synthetic demo listing \"Fitness Item 7982\".",
+    "price": 93.76,
+    "stock": 171
+  }
+]

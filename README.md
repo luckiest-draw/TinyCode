@@ -225,11 +225,57 @@ Paths are resolved by the spawned process. For portable deployments, prefer abso
 |---|---|---|
 | `get_product_detail` | Fetch one structured product record | `product_id` |
 | `search_products` | Search structured product records | `query` |
+| `search_orders` | Search order records, optionally by `status` (`processing` / `shipped` / `delivered` / `cancelled`) | `status`, `limit` |
 | `get_order_detail` | Fetch an order record | `order_id` |
 | `get_logistics_status` | Fetch the latest logistics record | `order_id` |
 | `search_product_knowledge` | Search product and policy documents | `query`, optional `top_k` |
 
 The MCP adapter normalizes remote JSON Schemas and flattens text content into model-friendly tool results. A failed MCP server is recorded as an error state rather than crashing the entire harness.
+
+### Sample data
+
+The repository ships a small, deterministic set of **synthetic** commerce
+fixtures under [`data/`](./data) — no real customers, orders, or shipments:
+
+- [`products.json`](./data/products.json), [`orders.json`](./data/orders.json),
+  [`logistics.json`](./data/logistics.json) — converted from the CC0 sample
+  dataset of [`ablancogcr/synthetic-dataset-generator`](https://github.com/ablancogcr/synthetic-dataset-generator)
+  (220 orders across `cancelled` / `shipped` / `processing` / `delivered`, plus
+  ~394 products and matching logistics records).
+- [`knowledge/`](./data/knowledge) — project-authored, clearly fictional store
+  policies and FAQ (shipping, cancellation, returns, payment) used to build the
+  local RAG index.
+- [`SOURCE.md`](./data/SOURCE.md) records provenance, the upstream commit, the
+  field mapping, and how to regenerate fixtures; [`LICENSE-DATA`](./data/LICENSE-DATA)
+  carries the CC0 terms.
+
+Build the local RAG index and point the MCP server at the fixtures:
+
+```bash
+npm run commerce:ingest -- --knowledge ./data/knowledge --db ./data/commerce.sqlite
+```
+
+```json
+{
+  "mcpServers": {
+    "commerce": {
+      "command": "node",
+      "args": ["dist/commerce/mcp-server.js"],
+      "timeoutMs": 30000,
+      "env": {
+        "TINYCODE_COMMERCE_PRODUCTS": "./data/products.json",
+        "TINYCODE_COMMERCE_ORDERS": "./data/orders.json",
+        "TINYCODE_COMMERCE_LOGISTICS": "./data/logistics.json",
+        "TINYCODE_COMMERCE_RAG_DB": "./data/commerce.sqlite",
+        "TINYCODE_COMMERCE_KNOWLEDGE_DIR": "./data/knowledge"
+      }
+    }
+  }
+}
+```
+
+With that configuration a customer-service request such as "which orders are
+cancelled?" can be answered from real fixture data via `search_orders`.
 
 ## Commerce data formats
 

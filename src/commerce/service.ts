@@ -61,6 +61,17 @@ export class CommerceDataService {
     return this.orders.get(id) ?? null;
   }
 
+  /** Search order records by an optional status filter (case-insensitive). */
+  searchOrders(filter?: { status?: string; limit?: number }): OrderRecord[] {
+    let records = [...this.orders.values()];
+    const status = filter?.status?.trim().toLowerCase();
+    if (status) {
+      records = records.filter((order) => String(order.status ?? "").toLowerCase() === status);
+    }
+    const limit = Math.min(Math.max(1, filter?.limit ?? 50), 100);
+    return records.slice(0, limit);
+  }
+
   getLogistics(orderId: string): LogisticsRecord | null {
     return this.logistics.get(orderId) ?? null;
   }

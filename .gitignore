@@ -4,6 +4,10 @@ dist/
 *.log
 .DS_Store
 
+# generated local RAG index (build via npm run commerce:ingest)
+data/*.sqlite
+data/*.sqlite-*
+
 # secrets & local credentials — never commit
 .env
 .env.*
